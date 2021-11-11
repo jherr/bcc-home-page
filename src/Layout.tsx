@@ -31,19 +31,13 @@ function classNames(...classes: string[]) {
   return classes.filter(Boolean).join(" ");
 }
 
-export default function Layout() {
+const Layout: React.FunctionComponent<{
+  title: string;
+}> = ({ children, title }) => {
   const [sidebarOpen, setSidebarOpen] = useState(false);
 
   return (
     <>
-      {/*
-        This example requires updating your template:
-
-        ```
-        <html class="h-full bg-gray-100">
-        <body class="h-full">
-        ```
-      */}
       <div>
         <Transition.Root show={sidebarOpen} as={Fragment}>
           <Dialog
@@ -262,17 +256,15 @@ export default function Layout() {
 
           <main className="flex-1">
             <div className="py-6">
-              <div className="max-w-7xl mx-auto px-4 sm:px-6 md:px-8">
-                <h1 className="text-2xl font-semibold text-gray-900">
-                  Dashboard
-                </h1>
-              </div>
-              <div className="max-w-7xl mx-auto px-4 sm:px-6 md:px-8">
-                {/* Replace with your content */}
-                <div className="py-4">
-                  <div className="border-4 border-dashed border-gray-200 rounded-lg h-96" />
+              {title && (
+                <div className="max-w-7xl mx-auto px-4 sm:px-6 md:px-8">
+                  <h1 className="text-2xl font-semibold text-gray-900">
+                    title
+                  </h1>
                 </div>
-                {/* /End replace */}
+              )}
+              <div className="max-w-7xl mx-auto px-4 sm:px-6 md:px-8">
+                <div className="py-4">{children}</div>
               </div>
             </div>
           </main>
@@ -280,4 +272,6 @@ export default function Layout() {
       </div>
     </>
   );
-}
+};
+
+export default Layout;
