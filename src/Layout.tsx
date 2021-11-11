@@ -32,7 +32,7 @@ function classNames(...classes: string[]) {
 }
 
 const Layout: React.FunctionComponent<{
-  title: string;
+  title?: string;
 }> = ({ children, title }) => {
   const [sidebarOpen, setSidebarOpen] = useState(false);
 
