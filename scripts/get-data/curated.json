@@ -1,0 +1,2196 @@
+[
+  {
+    "id": "yo87SLp4jOo",
+    "title": "Cleaning Up Copilot Code (Human vs AI) - maxChar",
+    "description": "GitHub Copilot is a great helper, but you it's just the copilot. Let's take the pilot's chair and turn some not so great Copilot code and turn it into high quality production ready TypeScript code.",
+    "series": ["Basics"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "0WIFW3s2fDM",
+    "title": "Five Module Federation/Micro-Frontend Mistakes",
+    "description": "Module Federation is an advanced front-end topic, that's for sure, so let's talk about some mistakes that people make, and misconceptions people have, about the this Webpack 5 functionality, as well as how to avoid them.",
+    "series": ["Module Federation"],
+    "technologies": ["module federation"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "EH9Suo_J4Ks",
+    "title": "Test Driven Development: The best way to code that I almost never use",
+    "description": "Test Driven Development is a fantastic way to build code that you know is well tested and will work. I know I should code this way, but why don't I? Let's find out what Test Driven Development is, and see if you should give it a try as we apply it to basic JavaScript and TypeScript functions, custom React hooks and React components.",
+    "series": ["Basics"],
+    "technologies": [],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "QChEaOHauZY",
+    "title": "GraphQL/JWT Speed Run with Refresh Tokens",
+    "description": "In just thirty minutes learn how to get JSON Web Token authentication running in GraphQL using refresh tokens, Axios and React Query!",
+    "series": ["Architecture Speedrun"],
+    "technologies": ["graphql", "jwt", "react"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "eAfUfKYcvBo",
+    "title": "Senior Developer Workflow For Stress-Free Coding",
+    "description": "Stop being frustrated with your code and take just a few minutes to learn an iterative workflow. Your code will always be working. Your stress level will be low. You'll be able to go for a lunch or a run and not worry about how to fix your broken code. And you'll be able to locate bugs down to just a few lines without doing extensive debugging.",
+    "series": ["Basics"],
+    "technologies": [],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "H2kxc_ZrSPI",
+    "title": "Command & Memento Patterns in Typescript (No BS TS Series 2 Episode 4)",
+    "description": "Let's have a look at the Command and Memento Design Patterns in TypeScript and see how to implement Undo, and time-travel state management the easy way. We even build out a custom hook that adds undo functionality to useState!",
+    "series": ["No BS TS"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "LDS1ll93P-s",
+    "title": "Redux Toolkit Query vs React Query",
+    "description": "Picking an API access library for your React app is tough, there are so many great choices! Let's take a look at two of the most popular; React Query and Redux Toolkit Query.",
+    "series": [],
+    "technologies": ["react", "redux", "react-query"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "s_Fs4AXsTnA",
+    "title": "Micro-Frontends in Just 10 Minutes",
+    "description": "Take ten minutes to create three applications using Module Federation to create and share a Micro-Frontend between SolidJS and React.",
+    "series": ["Module Federation"],
+    "technologies": ["module federation"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "ITVS76JpNn8",
+    "title": "Svelte, URQL, Apollo Speed Run",
+    "description": "We build a CMS application fast that connects Svelte to an Apollo server using URQL and the GraphQL Code Generator.",
+    "series": ["Architecture Speedrun"],
+    "technologies": ["svelte", "graphql"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "0W4SdogReDg",
+    "title": "Redux Sagas vs Redux Toolkit Query",
+    "description": "Redux Saga and Redux Toolkit Query are two great ways to do API access. Let's compare them head to head doing full create, read, update and delete operations on both libraries. If you've only seen one of these in action you'll want to check this out!",
+    "series": [],
+    "technologies": ["redux"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "SZ2kAkMdAZE",
+    "title": "Visitor and Iterator Patterns in TypeScript (No BS TS Series 2 Episode 3)",
+    "description": "In this third episode of No BS TS series 2 we look at the Visitor & Iterator patterns. These patterns allow you to decouple complex traversal code from computation code. For example you can decoupling paging through an API from the code that does computations on the data returned from the API.",
+    "series": ["No BS TS"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "f3Cn0CGytSQ",
+    "title": "TypeScript Pub/Sub Patterns (No BS TS Series 2 Episode 2)",
+    "description": "In this second episode of No BS TS series 2 we look at the Publish & Subscribe pattern (or the Observer pattern as they call it in the book). This pattern allows you to loosen the coupling in your code and maximize reuse, all while making your code easier to understand.",
+    "series": ["No BS TS"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "0eoyWYP6I4Q",
+    "title": "Nobody Wins A Programmer Fight",
+    "description": "Healthy debate about things like React versus Vue, OOP versus FP, strongly typed versus dynamically typed is fine, but sometimes it can get ugly. So let's talk about how to mitigate the fallout from a technical debate that gets too heated.",
+    "series": ["Basics"],
+    "technologies": [],
+    "languages": []
+  },
+  {
+    "id": "bvdHVxqjv80",
+    "title": "TypeScript/React Testing: Components, Hooks, Custom Hooks, Redux and Zustand",
+    "description": "By viewer request we are looking at testing React TypeScript components all the way from render components, through components with state, asynchronous components, custom hooks, Redux and Zustand.",
+    "series": ["Basics"],
+    "technologies": ["react", "redux", "zustand"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "-1YhP5IOBCI",
+    "title": "TypeScript Factory Patterns (No BS TS Series 2 Episode 1)",
+    "description": "No BS TS is back! With the first in an all new series where we cover all the patterns in the original Design Patterns book (and more). This time we are looking at the factory patterns; Abstract Factory, Builder and Factory Method. All of these patterns help you build reusable well architected code.",
+    "series": ["No BS TS"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "Mi6sosJuDDY",
+    "title": "Find A GPU You Like With a KD-Tree and React",
+    "description": "Having trouble finding the GPU you want in stock? Maybe another one is just as good. Let's write an app that helps you find which GPUs are a similar match to that GPU you crave.",
+    "series": [],
+    "technologies": ["react"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "tmfvqLFeR10",
+    "title": "Ponicode: AI-driven unit testing",
+    "description": "Let's check out Ponicode, an AI driven unit test writer. Whether you are a unit test noobie who wants to learn to write tests, or a seasoned veteran who wants to up their unit test coverage numbers, there is something in Ponicode to like!",
+    "series": [],
+    "technologies": ["ponicode"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "s6nG0byDI-o",
+    "title": "React + RxJS = Reactive Global Goodness",
+    "description": "Let's fuse together React and RxJS to build a Pokemon deck builder application and use that as an opportunity to learn about RxJS and how it can play nicely with React.",
+    "series": [],
+    "technologies": ["react", "rxjs"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "HxyaftP6hJ8",
+    "title": "Avoid Bad Job Fits with Five Interviewer Questions",
+    "description": "YOU get to ask questions during the interview, but so many folks don't use that opportunity to ask real questions that will weed out the bad jobs.",
+    "series": ["Basics"],
+    "technologies": [],
+    "languages": []
+  },
+  {
+    "id": "rY_XqfSHock",
+    "title": "Fixing TypeScript's Blindspot: Runtime Typechecking",
+    "description": "TypeScript only checks types at compile time. And that means that, invalid data, that doesn't have the fields we think are required, can still break our applications. Learn how to use Zod, Yup, and Joi to fix this problem and go even further to check the contents of the fields at runtime.",
+    "series": [],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "LZc2hSghezM",
+    "title": "Solid + GraphQL = Realtime Magic",
+    "description": "[NOTE: Apparently my point that Apollo is hard bound to React is wrong. I'll be looking into that.]\n\nLet's use the Solid-JS framework to create a todo app using queries, mutations and subscriptions. Then, in a quick twist, we repurpose the todo app into a chat app.",
+    "series": [],
+    "technologies": ["graphql", "solid-js"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "VcOMq3LQtBU",
+    "title": "Mastering async code with Typescript and Javascript",
+    "description": "Async code can be some of the hardest code to write in Typescript and Javascript, and we write it all the time. So let's build up some patterns for writing async/await code well, doing multiple stacked async calls, testing our async code, using promises for caching, and even supporting old school callbacks.",
+    "series": ["Basics"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "5m7Al81Um88",
+    "title": "Five ways to beat burnout",
+    "description": "Let's talk about what burnout is and how we can practically address it both personally and with changes at work.",
+    "series": ["Basics"],
+    "technologies": [],
+    "languages": []
+  },
+  {
+    "id": "EXI9v6i7bAo",
+    "title": "ESBuild and SWC: Worth your time?",
+    "description": "Is the juice worth the squeeze with these new JS/TS compilers written in Go and Rust? We'll take a look at compiling libraries, as well as several different variations on compiling web applications using Create React App, NextJS, Webpack and Rollup.",
+    "series": [],
+    "technologies": ["esbuild", "swc"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "OqcHoLWyyIw",
+    "title": "React vs SolidJS, Fight!",
+    "description": "Let's compare React with the upstart newcomer Solid-JS in an eCommerce showdown!",
+    "series": [],
+    "technologies": ["solid-js","react"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "sf355K1iNjE",
+    "title": "Why Typescript?",
+    "description": "Let's talk about the advantages of Typescript and why you'd want to use it.",
+    "series": [],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "7I-CY1a-Jpk",
+    "title": "Will Github Copilot Take Your Job?",
+    "description": "Lets look at Github's controversial Copilot extension for VS Code. I'll show you how to sign up, how to work with it, and talk advice and ethics.",
+    "series": [],
+    "technologies": ["copilot"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "EzJF0IUoYhQ",
+    "title": "Angular Module Federation Micro-FE Speed Run",
+    "description": "We use NX to build two Angular applications using PrimeNG, then share a component between the two applications using module federation.",
+    "series": ["Module Federation"],
+    "technologies": ["angular"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "56_OUG-0wgI",
+    "title": "You're Doing React Hooks Wrong, Probably",
+    "description": "Let's see how to get the most our of React hooks by using them as a reactive state management system by making proper use of the dependency arrays with useEffect, useMemo and useCallback.",
+    "series": [],
+    "technologies": ["react"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "Cos-ctPX5hw",
+    "title": "No BS TS 34 - Typescript Decorators",
+    "description": "We're back with one more No BS TS and this time we are looking at Typescript Decorators; how to make them, how to use them.",
+    "series": ["No BS TS"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "yZDvE0mP4Y4",
+    "title": "Deno Deploy: Crazy Fast Cloud Functions - Architecture Speedun",
+    "description": "Let's try out Deno Deploy and see just how fast it can be to make cloud functions and deploy cloud based UI using the Javascript and Typescript skills you already have",
+    "series": ["Architecture Speedrun"],
+    "technologies": ["react-native", "react", "nx", "deno"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "_WpzQTHBRLE",
+    "title": "Nest, Axios, React, React-Native Architecture Speedrun",
+    "description": "We see how fast we can put together React and React-Native applications that talk through a shared custom hook with Axios to talk to a NestJS backend.",
+    "series": ["Architecture Speedrun"],
+    "technologies": ["nest", "react", "nx"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "WOfL5q2HznI",
+    "title": "Typescript NX Monorepo with NextJS and Express",
+    "description": "Let's build an NX monorepo with an express API that shares Typescript types with a NextJS applications that we then test with Cypress. So much to learn and do, let's get into it!",
+    "series": ["Architecture Speedrun"],
+    "technologies": ["nextjs", "express", "nx"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "_cbJ2iN25_I",
+    "title": "No BS TS #33 - Viewer's Q&A (Does Typescript Bloat Code?)",
+    "description": "Like any good tech series, this \"season\" ends with a Q&A where I answer a bunch of your questions that I have not yet answered.",
+    "series": ["No BS TS"],
+    "technologies": ["react"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "Bw_tmWEaaIU",
+    "title": "No BS TS #32 - Monorepos with NX",
+    "description": "We create a mono-repo to share components with an application using NX in just a few minutes.",
+    "series": ["No BS TS"],
+    "technologies": ["react", "nx"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "FC5gM49xQPE",
+    "title": "No BS TS #31 - Testing with Jest and Wallaby",
+    "description": "We use the ts-jest library to add unit tests to our code and then check out the insanely cool Wallaby extension for real time unit testing.",
+    "series": ["No BS TS"],
+    "technologies": ["testing"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "MkNCkKomu_s",
+    "title": "No BS TS #30 - Project setup",
+    "description": "We set up a Typescript project for development and build, and connect it to a Javascript consumer and a Typescript consumer.",
+    "series": ["No BS TS"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "lgJmSQwQ-gk",
+    "title": "No BS TS #29 - Typescript/React - Using xState",
+    "description": "We try out a Finite State Machine approach to state management by porting our Todo example to xState.",
+    "series": ["No BS TS"],
+    "technologies": ["react", "xstate"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "raTvJzKoZJo",
+    "title": "No BS TS #28 - Typescript/React - Zustand",
+    "description": "Lets check out Zustand, a light weight state manager with that is immutable like Redux, and has great type safety.",
+    "series": ["No BS TS"],
+    "technologies": ["react", "zustand"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "eFh2Kr9hfyo",
+    "title": "No BS TS #27 -Typescript/React - Redux Toolkit",
+    "description": "We get into the OG React state manager, Redux, and look how to use it with Redux Toolkit and keep it typed with Typescript.",
+    "series": ["No BS TS"],
+    "technologies": ["react", "redux"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "VAIR7cRBlFw",
+    "title": "No BS TS #26 - Typescript/React - Global State",
+    "description": "We continue our look into global state management with Typescript by using a custom global state hook from react-use.",
+    "series": ["No BS TS"],
+    "technologies": ["react"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "OseG8oQ2RDM",
+    "title": "No BS TS #25 - Typescript/React - useContext",
+    "description": "We start off exploring global state management by having a look at useContext and how to properly use and type it.",
+    "series": ["No BS TS"],
+    "technologies": ["react"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "W5TXxJIyBP0",
+    "title": "No BS TS #24 - Typescript/React - Generic Components",
+    "description": "Let's fuse together our understanding of Typescript generics with what we know about writing React with Typescript and create a generic list component!",
+    "series": ["No BS TS"],
+    "technologies": ["react"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "qACBGbBxVYY",
+    "title": "No BS TS #23 - Typescript/React - Custom Hooks",
+    "description": "Let's delve deeper into React to see how to build and type our own custom hooks.",
+    "series": ["No BS TS"],
+    "technologies": ["react"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "9y0eY6hs1QM",
+    "title": "No BS TS #22 - Typescript/React - Advanced Properties",
+    "description": "We figure out the right way to send state setting actions to nested components. As well as how to wrap html elements with all the appropriate properties using DetailedHTMLProps.",
+    "series": ["No BS TS"],
+    "technologies": ["react"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "lGEgtSETz9Y",
+    "title": "No BS TS #21 - Typescript/React - Hooks",
+    "description": "Let's see how to type useState, useReducer, useEffect and useCallback.",
+    "series": ["No BS TS"],
+    "technologies": ["react"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "gChqkchbn9o",
+    "title": "No BS TS #20 - Typescript/React - Setup and Properties",
+    "description": "Let's check out how Typescript works in React by setting up a Create React App (CRA) project with a Typescript template and then investigate how to do properties in Typescript.",
+    "series": ["No BS TS"],
+    "technologies": ["react"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "GBAO3YKMonI",
+    "title": "Pokemon/React Viewer Projects",
+    "description": "Let's take a live look at viewer submitted Pokemon viewer applications, and if we run out of those I can answer your questions about React, Fower, Typescript what have you.",
+    "series": [],
+    "technologies": ["react"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "mOA1SA9sfcw",
+    "title": "No BS TS #19 - Utility Types in Typescript - Part 2",
+    "description": "Turns out you can define types conditionally based on the a type check against a different type. Let's try it out on a fetch function that optionally takes a callback and can return either a void or a promise based on that callback.",
+    "series": ["No BS TS"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "jdzLpEnRAqg",
+    "title": "No BS TS #18 - Conditional Types in Typescript",
+    "description": "Turns out you can define types conditionally based on the type check against a different type. Let's try it out on a fetch function that optionally takes a callback and can return either a void or a promise based on that callback.",
+    "series": ["No BS TS"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "7o1P-SB7yQw",
+    "title": "No BS TS - Challenge 3",
+    "description": "Let's challenge ourselves to make an event processing engine using generics and mapped types.",
+    "series": ["No BS TS"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "Kn8TKLcd6d4",
+    "title": "No BS TS #17 - Mixins in Typescript",
+    "description": "Let's check out how to have functions create functions, have functions create classes including using generics, and have them extend classes using mixins.",
+    "series": ["No BS TS"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "iFEOdoHp19U",
+    "title": "No BS TS #16 - Abstract Classes in Typescript",
+    "description": "Let's see how and why we might use abstract classes in Typescript as we model Street Fighters.",
+    "series": ["No BS TS"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "nkpPOVUHT1k",
+    "title": "No BS TS #15 - Readonly and Static in Typescript Classes",
+    "description": "We can make fields in Typescript classes readonly, as well as make member fields and methods static. Let's explore some practical uses for readonly and static in classes.",
+    "series": ["No BS TS"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "4cbP95OcfR0",
+    "title": "Pokemon Page with React, Fower and Custom Hooks - Part 2",
+    "description": "We finish off our Pokemon search page using Fower and Custom Hooks.",
+    "series": [],
+    "technologies": ["react"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "0-BsmzlMMIw",
+    "title": "No BS TS #14 - Mapped Types in Typescript",
+    "description": "Let's use that amazing keyof operator to pull off even crazier types by creating mapped types in Typescript.",
+    "series": ["No BS TS"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "_ZnNZWlyw7M",
+    "title": "No BS TS #13 - Generics in Typescript Classes",
+    "description": "Let's take our Database implementation from episode 12 and make it generic!",
+    "series": ["No BS TS"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "PbswZshAKF8",
+    "title": "No BS TS #12 - Typescript Classes; Member Visibility and Implements",
+    "description": "Let's have a look at member visibility and how to implement interfaces in Typescript.",
+    "series": ["No BS TS"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "VrfJeXj7TiQ",
+    "title": "No BS TS #11 - Enums and Literal Types in Typescript",
+    "description": "Lets export enumerations and literal types in Typescript and show how they can make your code safer.",
+    "series": ["No BS TS"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "xdJQ1GtUQCg",
+    "title": "Pokemon Page with React, Fower and Custom Hooks",
+    "description": "Let's create a Pokemon search application using React, Fower, React hooks and a custom hook!",
+    "series": [],
+    "technologies": ["react"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "b_p3yP57A9w",
+    "title": "No BS TS #10 - Readonly And Immutability in Typescript",
+    "description": "Lets cover how to make interface fields and tuples readonly as well as how to make truly constant arrays!",
+    "series": ["No BS TS"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "tD7DM99nH30",
+    "title": "No BS TS #9 - Typescript Utility Types",
+    "description": "Lets take our first, but definitely not last look at Utility types in Typescript. Including Partial, Required, Pick, Record, and Omit.",
+    "series": ["No BS TS"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "rWanEGMkXwc",
+    "title": "Mastering Typescript State using Valtio",
+    "description": "Continuing on with Typescript we are starting a series on React state management where we take the same To-Do list and implement it using a bunch of different state managers. This time we are looking at Valtio!",
+    "series": ["Mastering Typescript State"],
+    "technologies": ["react", "state management"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "4XTj6sIGTdc",
+    "title": "No BS TS #8 - Generics with keyof in Typescript",
+    "description": "The keyof operator in the generics context is as powerful as it is cool. Once you get the hang of it you are going to make some great APIs that are both easy to use and inherently type safe. You are going to fall in love with this Typescript operator.",
+    "series": ["No BS TS"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "DxG17pbgsZg",
+    "title": "No BS TS Challenge #2",
+    "description": "Let's challenge ourselves to re-implement forEach, map and filter using reduce, and to do it in a type safe manner using Typescript.",
+    "series": ["No BS TS"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "Q4QDyr0jLfo",
+    "title": "No BS TS #7 - Generics in Typescript",
+    "description": "Generics are fundamental to Typescript. So let's start digging in and learning this super powerful way of making your code cleaner, leaner and more type safe.",
+    "series": ["No BS TS"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "5q0VtzJjvNc",
+    "title": "No BS TS #6 - Tuples in Typescript",
+    "description": "Tuples are typed arrays in Typescript. Let's learn how to declare them, created them, and make our own version of useState.",
+    "series": ["No BS TS"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "QvcyL_ZGhf0",
+    "title": "No BS TS #5 - Optionals in Typescript",
+    "description": "Understanding optional parameters, fields and calls is critical to writing great Typescript. Let's dig in and have a look at all these flavors of optionals, plus optional chaining, the null coalescing operator, and the `!` operator.",
+    "series": ["No BS TS"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "XnyZXNnWAOA",
+    "title": "No BS TS #4 - Function Overloading in Typescript",
+    "description": "Let's cover one of Typescript least known features; Function Overloading, and just because it's lesser known doesn't mean it's any less imoprtant.",
+    "series": ["No BS TS"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "GsRnExrC89A",
+    "title": "No BS TS - Challenge #1",
+    "description": "Let's see if you can take on a challenge with your new Typescript superpowers.",
+    "series": ["No BS TS"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "ixCxoFAoOps",
+    "title": "No BS TS #3 - Typescript Functions with Functions",
+    "description": "Let's look at how to define Typescript functions take functions as parameters or return functions.",
+    "series": ["No BS TS"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "-TsIUuA3yyE",
+    "title": "No BS TS #2 - Typescript Functions",
+    "description": "Let's dig into defining Typescript functions and cover the #1 misconception that programmers have about Typescript.",
+    "series": ["No BS TS"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "LKVHFHJsiO0",
+    "title": "No BS TS #1 - Typescript Setup & Everyday Types",
+    "description": "Let's skip the chatter and get right into Typescript, why you should use it, how to set it up and how to start typing your variables.",
+    "series": ["No BS TS"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "P0GxuOPyLXo",
+    "title": "Mastering Typescript State with Galactic State",
+    "description": "We continue our series on state management with React and Typescript, this time using Galactic State and react-hooks-global-state.",
+    "series": ["Mastering Typescript State"],
+    "technologies": ["react", "state management"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "YzPDzWM_k_8",
+    "title": "Introduction To React #17 | Static Site Generation (SSG)",
+    "description": "We statically generate the Pokemon detail page using NextJS' Static Site Generation (SSG) functionality.",
+    "series": ["Introduction to React"],
+    "technologies": ["react", "nextjs"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "2rrwPm8fuis",
+    "title": "Live! Common React Mistakes: useEffect - Part 2",
+    "description": "Let's build on part 1 (https://youtu.be/lStfMBiWROQ) by looking at the cleanup function on useEffect to make sure that we are using timeouts, intervals and registering event listeners properly.",
+    "series": [],
+    "technologies": ["react"],
+    "live": "F-0SZ_TicXA",
+    "languages": ["typescript"]
+  },
+  {
+    "id": "F-0SZ_TicXA",
+    "title": "Common React Mistakes: useEffect - Part 2",
+    "description": "Let's build on part 1 (https://youtu.be/lStfMBiWROQ) by looking at the cleanup function on useEffect to make sure that we are using timeouts, intervals and registering event listeners properly.",
+    "series": [],
+    "technologies": ["react"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "bCU9BUfwUJE",
+    "title": "Live! Common React Mistakes: useEffect",
+    "description": "Let's work through some common mistakes when using React's useEffect, useCallback and useMemo hooks (or not using them), and also their tricky dependency arrays. We will even come up with a helpful list of rules to live by. And we will do it all live so that you can ask questions as we go!",
+    "series": [],
+    "technologies": ["react"],
+    "live": "lStfMBiWROQ",
+    "languages": ["typescript"]
+  },
+  {
+    "id": "lStfMBiWROQ",
+    "title": "Common React Mistakes: useEffect - Part 1",
+    "description": "Let's work through some common mistakes when using React's useEffect, useCallback and useMemo hooks (or not using them), and also their tricky dependency arrays. We will even come up with a helpful list of rules to live by.",
+    "series": [],
+    "technologies": ["react"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "e8Aqtak8stI",
+    "title": "Three Patterns for Type Safe Analytics using Typescript",
+    "description": "Let's improve our analytics code using Typescript and trying three different methods. Demonstrating Typescript features like; keyof, function overloading and closures.",
+    "series": [],
+    "technologies": [],
+    "live": "NJxagi7K-D8",
+    "languages": ["typescript"]
+  },
+  {
+    "id": "NJxagi7K-D8",
+    "title": "Three Patterns for Type Safe Analytics using Typescript",
+    "description": "Let's improve our analytics code using Typescript and trying three different methods. Demonstrating Typescript features like; keyof, function overloading and closures.",
+    "series": [],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "eVfw4pRDUIY",
+    "title": "Typescript for React and Jotai From Beginners to Masters",
+    "description": "Continuing on with Typescript we are starting a series on React state management where we take the same To-Do list and implement it using a bunch of different state managers. This time we are looking at Jotai!",
+    "series": [],
+    "technologies": ["react", "state management", "jotai"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "JBu2ZTPgiKI",
+    "title": "Five Essential Design Patterns in Typescript",
+    "description": "I'm going to \"do it live!\" as I bring you five essential Design Patterns, from the GoF book, in Typescript, live, as you get to ask questions along the way! Super exciting, I can't wait to see how it turns out!\n\nOne thing I can guarantee is that you will come away from this with a decent idea of what these patterns are and code that you can reuse in your applications.",
+    "series": [],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "_m2XfYzBV2c",
+    "title": "Typescript for React and Effector From Beginners to Masters",
+    "description": "Continuing on with Typescript we are starting a series on React state management where we take the same To-Do list and implement it using a bunch of different state managers. This time we are looking at Effector!",
+    "series": ["Mastering Typescript State"],
+    "technologies": ["react", "state management", "effector"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "eQE9wp4PTY4",
+    "title": "Live Typescript Double Header - Learn MobX AND Create an SVG Lava Animation",
+    "description": "Go from beginner to master on Typescript for MobX and then, in a double header, also learn about how to animate SVGs in React with custom hooks that we will build together.",
+    "series": [],
+    "technologies": ["state management", "mobx"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "nGZCL6Wd_zQ",
+    "title": "Typescript for React and MobX From Beginners to Masters",
+    "description": "Continuing on with Typescript we are starting a series on React state management where we take the same To-Do list and implement it using a bunch of different state managers. This time we are looking at MobX!",
+    "series": ["Mastering Typescript State"],
+    "technologies": ["react", "state management", "mobx"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "sqTPGMipjHk",
+    "title": "Mastering Typescript State using Zustand",
+    "description": "Continuing on with Typescript we are starting a series on React state management where we take the same To-Do list and implement it using a bunch of different state managers. This time we are looking at Zustand!",
+    "series": ["Mastering Typescript State"],
+    "technologies": ["react", "state management", "zustand"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "xrbuvD5HBq4",
+    "title": "Introduction to React #16 | Server Side Rendering (SSR)",
+    "description": "We take our NextJS app and use Server Side Rendering to render the pages on the server before they go to the client.",
+    "series": ["Introduction to React"],
+    "technologies": ["nextjs", "react"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "ki0Q9QeXH9Q",
+    "title": "Live! Mastering Typescript State Management using Redux",
+    "description": "We continue our series on state management with React and Typescript by looking at how to properly type Redux and Redux Thunk.",
+    "series": ["Mastering Typescript State"],
+    "technologies": ["react", "state management", "redux"],
+    "live": "emhwHjAsyss",
+    "languages": ["typescript"]
+  },
+  {
+    "id": "emhwHjAsyss",
+    "title": "Mastering Typescript State Management using Redux",
+    "description": "We continue our series on state management with React and Typescript by looking at how to properly type Redux and Redux Thunk.",
+    "series": ["Mastering Typescript State"],
+    "technologies": ["react", "state management", "redux"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "ZFNxTy3fOO0",
+    "title": "Fixing Module Federation Versioning",
+    "description": "Module Federation has made runtime sharing a snap BUT we are still figuring out versioning. Thankfully Jacob Ebey has a pattern for not just versioning, but simple deployment with unpkg as well.",
+    "series": ["Module Federation"],
+    "technologies": ["module federation"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "ZD7viwwRLAw",
+    "title": "Live! Mastering Typescript State Management using just React",
+    "description": "Continuing on with Typescript we are starting a series on React state management where we take the same To-Do list and implement it using a bunch of different state managers. And to kick that off we are looking at using just the React basics to start; useState, useContext and createContext.",
+    "series": ["Mastering Typescript State"],
+    "technologies": ["react", "state management"],
+    "live": "8QtiqXew2QQ",
+    "languages": ["typescript"]
+  },
+  {
+    "id": "8QtiqXew2QQ",
+    "title": "Mastering Typescript State Management using just React",
+    "description": "Continuing on with Typescript we are starting a series on React state management where we take the same To-Do list and implement it using a bunch of different state managers. And to kick that off we are looking at using just the React basics to start; useState, useContext and createContext.",
+    "series": ["Mastering Typescript State"],
+    "technologies": ["react", "state management"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "87hg99a9cjE",
+    "title": "Plugins for React Apps - No Really!",
+    "description": "Can we have the same kind of pluggable modular architecture in Node/React in a similar way as the Java folks have it in their configurable servers? Yes we can using some cool Webpack plugins and Create React App (or honestly anything you want to put it on.) Check it out and let me know what you think!",
+    "series": [],
+    "technologies": ["react"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "wg6iqAdBF9A",
+    "title": "Mastering Typescript for React Hooks - Live!",
+    "description": "Let's dive DEEP again into Typescript but this time to look at React Hooks.",
+    "series": [],
+    "technologies": ["react"],
+    "live": "zM_ZiSl2n2E",
+    "languages": ["typescript"]
+  },
+  {
+    "id": "zM_ZiSl2n2E",
+    "title": "Mastering React Hooks with Typescript",
+    "description": "Let's dive DEEP again into Typescript but this time to look at React Hooks.",
+    "series": ["Mastering Typescript State"],
+    "technologies": ["react"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "fu10QR3IU-k",
+    "title": "Mastering Typescript for React Components - Live!",
+    "description": "Let's dive DEEP into understanding how to type your React components in Typescript!",
+    "series": ["Mastering Typescript State"],
+    "technologies": ["react"],
+    "live": "z8lDwLKthr8",
+    "languages": ["typescript"]
+  },
+  {
+    "id": "z8lDwLKthr8",
+    "title": "Typescript for React Components From Beginners to Masters",
+    "description": "Typescript is quickly becoming the industry standard for React development. Take your Typescript skills from beginner to masters level by learning everything you need to know about how to write components in React the right way.",
+    "series": [],
+    "technologies": ["react"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "in80vPuCfro",
+    "title": "Simplified Micro-Frontends in Vue",
+    "description": "Vue 3 is a fantastic platform for making Micro-Frontends, let me show you how easy it is to do with Webpack 5's Module Federation functionality!",
+    "series": ["Module Federation"],
+    "technologies": ["module federation", "micro frontends", "vue"],
+    "languages": ["javascript"],
+    "live": "YQvQwTAqXE8"
+  },
+  {
+    "id": "YQvQwTAqXE8",
+    "title": "Simplified Micro-Frontends in Vue",
+    "description": "Vue 3 is a fantastic platform for making Micro-Frontends, let me show you how easy it is to do with Webpack 5's Module Federation functionality!",
+    "series": ["Module Federation"],
+    "technologies": ["module federation", "micro frontends", "vue"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "VBbkLd-_dPU",
+    "title": "Hacking Amazon's Undocumented React UI Toolkit",
+    "description": "Lets hack a React app together with Amazon's undocumented UI Toolkit. It's always good to stretch yourself and try something new. Like seeing just how much insight you can get into a React UI toolkit using just the Typescript definitions.",
+    "series": [],
+    "technologies": ["react"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "4wfqc7roa0Q",
+    "title": "Live! | Fixing useContext with react-tracked",
+    "description": "React's useState/useContext pairing is easy to use but its got performance issues. Let's look at Daishi Kato's react-tracked library and see if we can still use our existing context code, but make it more efficient by only updating components that depend on specific elements of the state tree.",
+    "series": [],
+    "technologies": ["react"],
+    "live": "6yBv-_COJkk",
+    "languages": ["typescript"]
+  },
+  {
+    "id": "6yBv-_COJkk",
+    "title": "Fixing useContext with react-tracked",
+    "description": "React's useState/useContext pairing is easy to use but its got performance issues. Let's look at Daishi Kato's react-tracked library and see if we can still use our existing context code, but make it more efficient by only updating components that depend on specific elements of the state tree.",
+    "series": [],
+    "technologies": ["react"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "47wDMcPONAw",
+    "title": "Introduction to React #15 | NextJS",
+    "description": "Where we port our application that was built on Create React App to the NextJS framework.",
+    "series": ["Introduction to React"],
+    "technologies": ["react", "nextjs"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "gED6KGBQgak",
+    "title": "Introduction to React #14 | MobX",
+    "description": "We take our Zustand app and try just one more state manager and that's MobX.",
+    "series": ["Introduction to React"],
+    "technologies": ["react", "state management", "mobx"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "1zCUMlFTDg0",
+    "title": "Live! - Micro-FEs Simplified",
+    "description": "Let's use Module Federation to make Micro-Frontends easy!",
+    "series": ["Module Federation"],
+    "technologies": ["module federation", "micro frontends"],
+    "live": "tFDvEITdJZ8",
+    "languages": ["javascript"]
+  },
+  {
+    "id": "tFDvEITdJZ8",
+    "title": "Micro-FEs Simplified",
+    "description": "Let's use Module Federation to make Micro-Frontends easy!",
+    "series": ["Module Federation"],
+    "technologies": ["module federation", "micro frontends"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "ks0Fsn6Csa4",
+    "title": "Twin Macro and React 17",
+    "description": "Let's use Tailwind and Twin.Macro on top of Create React App to build a CSS platform that's not just easy to use and super flexible, but really performant as well.",
+    "series": [],
+    "technologies": ["react", "tailwind"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "FmGYLJlhXco",
+    "title": "Live! - Conquering Regular Expressions - Part I",
+    "description": "Let's build our regular expression muscles by practicing regexing some strings to find and filter phone numbers.",
+    "series": [],
+    "technologies": ["regular expressions"],
+    "live": "vyvvYDDI6MY",
+    "languages": ["javascript"]
+  },
+  {
+    "id": "vyvvYDDI6MY",
+    "title": "Conquering Regular Expressions - Part I",
+    "description": "Let's build our regular expression muscles by practicing regexing some strings to find and filter phone numbers.",
+    "series": [],
+    "technologies": ["regular expressions"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "mPU9cFn7SmI",
+    "title": "Live! Introduction to React #13 | Zustand",
+    "description": "We port our Redux application to the much simpler Zustand state manager.",
+    "series": ["Introduction to React"],
+    "technologies": ["react", "state management", "zustand"],
+    "live": "KEc0LLQjyfQ",
+    "languages": ["javascript"]
+  },
+  {
+    "id": "KEc0LLQjyfQ",
+    "title": "Introduction to React #13 | Zustand",
+    "description": "We port our Redux application to the much simpler Zustand state manager.",
+    "series": ["Introduction to React"],
+    "technologies": ["react", "state management", "zustand"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "tfr7ZIqNhq4",
+    "title": "Sixel + React = Awesome - Live!",
+    "description": "Put high resolution graphics right into your terminal using the Sixel standard, Puppeteer, React and some charting libraries.",
+    "series": [],
+    "technologies": ["react", "sixel"],
+    "live": "KEc0LLQjyfQ",
+    "languages": ["javascript"]
+  },
+  {
+    "id": "apg9XR35pAM",
+    "title": "Sixel + React = Awesome",
+    "description": "Put high resolution graphics right into your terminal using the Sixel standard, Puppeteer, React and some charting libraries.",
+    "series": [],
+    "technologies": ["react", "sixel"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "Sti_XBFn5Xw",
+    "title": "Introduction to React #12 | Redux",
+    "description": "We port our application to the Redux statement manager to see how that works.",
+    "series": ["Introduction to React"],
+    "technologies": ["react", "state management", "redux"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "li15G-SNjls",
+    "title": "Live - Converting to Typescript - Arrays",
+    "description": "Learn typescript by converting Javascript to Typescript. In this video we start out with basic typing of function arguments and return values, and get to know Typescript tooling.",
+    "series": ["Converting to Typescript"],
+    "technologies": [],
+    "live": "_VItRGUFyKU",
+    "languages": ["typescript"]
+  },
+  {
+    "id": "XnlECbwcJZ0",
+    "title": "Introducing Valtio - Short Subject",
+    "description": "Let's check out the Valtio state manager for React.",
+    "series": [],
+    "technologies": ["react", "state management", "valtio"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "_VItRGUFyKU",
+    "title": "Converting JavaScript to Typescript - Arrays",
+    "description": "Learn typescript by converting Javascript to Typescript. In this video we start out with basic typing of function arguments and return values, and get to know Typescript tooling.",
+    "series": ["Converting to Typescript"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "5WbpZlJCWNk",
+    "title": "DIY Performance Data Gathering Chrome Extension",
+    "description": "Let's build a Chrome extension that gathers performance metrics from the pages you browse around then gives you a popup display you can use to compare metrics between competitor sites.",
+    "series": [],
+    "technologies": ["vanillaJS"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "Qs7NkP6TJn8",
+    "title": "Live - Introduction to React #11 | useReducer",
+    "description": "We learn how to use the useReducer hook instead of the useState hook to store data.",
+    "series": ["Introduction to React"],
+    "technologies": ["react", "state management"],
+    "live": "aM1bxz-82Qw",
+    "languages": ["javascript"]
+  },
+  {
+    "id": "aM1bxz-82Qw",
+    "title": "Introduction to React #11 | useReducer",
+    "description": "We learn how to use the useReducer hook instead of the useState hook to store data.",
+    "series": ["Introduction to React"],
+    "technologies": ["react", "state management"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "FrLzKMWa3Gk",
+    "title": "Live - Module Federation for NextJS 10",
+    "description": "Learn how to use Module Federations to export components directly out of your NextJS 10 applications into other NextJS applications. If you are running a micro-site architecture and you want Micro-Frontends, this is a valuable architectural option.",
+    "series": ["Module Federation"],
+    "technologies": ["module federation", "react", "nextjs"],
+    "live": "vX6EXi5I9LE",
+    "languages": ["javascript"]
+  },
+  {
+    "id": "vX6EXi5I9LE",
+    "title": "Module Federation for NextJS 10",
+    "description": "Learn how to use Module Federations to export components directly out of your NextJS 10 applications into other NextJS applications. If you are running a micro-site architecture and you want Micro-Frontends, this is a valuable architectural option.",
+    "series": ["Module Federation"],
+    "technologies": ["module federation", "react", "nextjs"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "S6Tu8oXyoRk",
+    "title": "Trying Blazor",
+    "description": "Let's check out Microsoft's new Blazor framework for building web pages using WebAssembly.",
+    "series": [],
+    "technologies": ["blazor"],
+    "languages": ["c#"]
+  },
+  {
+    "id": "SBysJEnvvhQ",
+    "title": "Live - Converting to Typescript - Objects",
+    "description": "Learn typescript by converting Javascript to Typescript. In this video we look into typing objects.",
+    "series": ["Converting to Typescript"],
+    "technologies": [],
+    "live": "S2L4fatK0Ek",
+    "languages": ["typescript"]
+  },
+  {
+    "id": "S2L4fatK0Ek",
+    "title": "Converting JavaScript to Typescript - Objects",
+    "description": "Learn typescript by converting Javascript to Typescript. In this video, we look into typing objects.",
+    "series": ["Converting to Typescript"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "5lm5xJVqfmA",
+    "title": "Live - Converting to Typescript - Basic Types",
+    "description": "Learn typescript by converting Javascript to Typescript. In this video we start out with basic typing of function arguments and return values, and get to know Typescript tooling.",
+    "series": ["Converting to Typescript"],
+    "technologies": [],
+    "live": "j92fxPpFaL8",
+    "languages": ["typescript"]
+  },
+  {
+    "id": "j92fxPpFaL8",
+    "title": "Converting JavaScript to TypeScript - Basic Types",
+    "description": "Learn typescript by converting Javascript to Typescript. In this video we start out with basic typing of function arguments and return values, and get to know Typescript tooling.",
+    "series": ["Converting to Typescript"],
+    "technologies": [],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "KBoNbQPQwwQ",
+    "title": "Live - Introduction to React #10 | Use Context",
+    "description": "We learn how to use context to pass data around our React application.",
+    "series": ["Introduction to React"],
+    "technologies": ["react", "state management"],
+    "live": "1kFX3B2IyH0",
+    "languages": ["javascript"]
+  },
+  {
+    "id": "1kFX3B2IyH0",
+    "title": "Introduction to React #10 | Use Context",
+    "description": "We learn how to use context to pass data around our React application.",
+    "series": ["Introduction to React"],
+    "technologies": ["react", "state management"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "LsvZM7ihXQI",
+    "title": "Live - Introducing Jotai || React State Manager Tutorial",
+    "description": "Let's try out the new Jotai state manager.",
+    "series": [],
+    "technologies": ["react", "state management", "jotai"],
+    "live": "x9usS4l1VD0",
+    "languages": ["javascript"]
+  },
+  {
+    "id": "x9usS4l1VD0",
+    "title": "Introducing Jotai || React State Manager Tutorial",
+    "description": "Let's try out the new Jotai state manager.",
+    "series": [],
+    "technologies": ["react", "state management", "jotai"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "LAu1p6tmj_Y",
+    "title": "Live - Vue on Module Federation | Tutorial",
+    "description": "Learn how to share Vue components, Javascript and data live between applications using the Module Federation system built into Webpack 5.",
+    "series": ["Module Federation"],
+    "technologies": ["module federation", "vue"],
+    "live": "ICeH3uBGGeo",
+    "languages": ["javascript"]
+  },
+  {
+    "id": "zOv7rK5Pi3Q",
+    "title": "Dog Slider Part 2 || Vanilla JS Tutorial",
+    "description": "We take our existing static SVG dog slider with overlay, and make it dynamic then connect it to a web service.",
+    "series": [],
+    "technologies": ["vanillaJS"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "ICeH3uBGGeo",
+    "title": "Vue on Module Federation | Tutorial",
+    "description": "Learn how to share Vue components, Javascript and data live between applications using the Module Federation system built into Webpack 5.",
+    "series": ["Module Federation"],
+    "technologies": ["module federation", "vue"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "10HkuC8H9m8",
+    "title": "Live - Zustand - New React State Manager",
+    "description": "Let's try out the Zustand state manager by building a simple application that grabs a list of Pokemon and filter it with a text box. Is Zustand the perfect choice between local component state with prop-drilling and content and a big Redux singleton? Let's find out!",
+    "series": [],
+    "technologies": ["react", "state management", "zustand"],
+    "live": "_qCRuFrdhYw",
+    "languages": ["javascript"]
+  },
+  {
+    "id": "_qCRuFrdhYw",
+    "title": "Zustand - New React State Manager",
+    "description": "Let's try out the Zustand state manager by building a simple application that grabs a list of Pokemon and filter it with a text box. Is Zustand the perfect choice between local component state with prop-drilling and content and a big Redux singleton? Let's find out!",
+    "series": [],
+    "technologies": ["react", "state management", "zustand"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "tGLwKqRCP_A",
+    "title": "Live - Module Federation for Plugins || Module Federation Tutorial",
+    "description": "Let's use Module Federation to create an extensible Dockerized express server!",
+    "series": ["Module Federation"],
+    "technologies": ["module federation"],
+    "live": "1jlEEmiBSvI",
+    "languages": ["javascript"]
+  },
+  {
+    "id": "OCg4DJyVGk0",
+    "title": "Introduction to React #6 | Asynchronous Requests",
+    "description": "We dump the data file and instead learn how to load the Pokemon data via a web request using React's useEffect hook and fetch.",
+    "series": ["Introduction to React"],
+    "technologies": ["react"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "1jlEEmiBSvI",
+    "title": "Module Federation for Plugins || Module Federation Tutorial",
+    "description": "Let's use Module Federation to create an extensible Dockerized express server!",
+    "series": ["Module Federation"],
+    "technologies": ["module federation"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "LyS1bB96FDg",
+    "title": "Introduction to React #9 | Class Components",
+    "description": "We learn how to create a class based component by turning the App component from a function into an ES6 class.",
+    "series": ["Introduction to React"],
+    "technologies": ["react"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "MJaGti42c5c",
+    "title": "Introduction To React #3 | Lists",
+    "description": "We learn how to load data into our project, as well as how to iterate through arrays to create tables.",
+    "series": ["Introduction to React"],
+    "technologies": ["react"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "-urz6Sh7RE8",
+    "title": "Introduction to React #5 | State and Events",
+    "description": "We get our first look at state management and event handling by upgrading our Pokemon list viewer to make it searchable and to give it Pokemon detail view.",
+    "series": ["Introduction to React"],
+    "technologies": ["react"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "HwNArS3f1Ss",
+    "title": "Introduction To React #2 | JSX",
+    "description": "We learn how to create HTML in React using the JSX syntax, as well as gotchas around CSS classes and styles.",
+    "series": ["Introduction to React"],
+    "technologies": ["react"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "j8AVXNozac8",
+    "title": "Introduction to React #1 | Deployment",
+    "description": "Let's start our journey in React by creating a React application then deploying it to Github Pages!",
+    "series": ["Introduction to React"],
+    "technologies": ["react"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "BdzFpyGVfVI",
+    "title": "Introduction to React #7 | CSS in JS",
+    "description": "We make our application easier to maintain by using CSS in Javascript and the emotion library.",
+    "series": ["Introduction to React"],
+    "technologies": ["react"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "ekIDdZE7YjM",
+    "title": "Introduction to React #4 | Creating Components",
+    "description": "We take our existing Pokemon list application and make it more maintainable by creating a new component to display a row in the table.",
+    "series": ["Introduction to React"],
+    "technologies": ["react"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "EFVCTzqRbqo",
+    "title": "Introduction to React #8 | Component Libraries",
+    "description": "We start to get the most out of React by using the Material UI component library to give our application a much cleaner look.",
+    "series": ["Introduction to React"],
+    "technologies": ["react"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "nOq1a6-8M-E",
+    "title": "Module Federation with Svelte || Module Federation Tutorial",
+    "description": "Checkout how to do Svelte micro-FEs using Module Federation in Webpack 5 by getting two Svelte apps to talk together then adding a React client as well.",
+    "series": ["Module Federation"],
+    "technologies": ["module federation", "svelte"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "zYKsUJv4uiU",
+    "title": "Live - Hacking Your Github Contribution Graph || Javascript Tutorial",
+    "description": "You can make your Github contribution graph look like whatever you want, then take some snaps and put them on Twitter. Or just deploy your re-imagined graph on Github itself using Github Pages! So let's jump in and see how to hack your contribution graph using Vanilla JS.",
+    "series": [],
+    "technologies": [],
+    "live": "_ZQSPYDlk3U",
+    "languages": ["javascript"]
+  },
+  {
+    "id": "_ZQSPYDlk3U",
+    "title": "Hacking Your Github Contribution Graph || Javascript Tutorial",
+    "description": "You can make your Github contribution graph look like whatever you want, then take some snaps and put them on Twitter. Or just deploy your re-imagined graph on Github itself using Github Pages! So let's jump in and see how to hack your contribution graph using Vanilla JS.",
+    "series": [],
+    "technologies": [],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "FTGWIH4RlHg",
+    "title": "Typescript with Module Federation || TypeScript Tutorial",
+    "description": "Let's try out Typescript with Module Federation. Turns out it's not hard. But do you have a better way than me to do this? Let's find out!",
+    "series": ["Module Federation"],
+    "technologies": ["module federation"],
+    "live": "UbEx1v26kCs",
+    "languages": ["typescript"]
+  },
+  {
+    "id": "UbEx1v26kCs",
+    "title": "Typescript with Module Federation ||  TypeScript Tutorial",
+    "description": "Let's try out Typescript with Module Federation. Turns out it's not hard. But do you have a better way than me to do this? Let's find out!",
+    "series": ["Module Federation"],
+    "technologies": ["module federation"],
+    "languages": ["typescript"]
+  },
+  {
+    "id": "vtM0-uhYLxM",
+    "title": "Live: Module Federation Into Production",
+    "description": "We'll take two different deployed applications and share a header between them using Module Federation.",
+    "series": ["Module Federation"],
+    "technologies": ["module federation"],
+    "live": "MU8_LP8R_ZI",
+    "languages": ["javascript"]
+  },
+  {
+    "id": "MU8_LP8R_ZI",
+    "title": "Module Federation Into Production",
+    "description": "We'll take two different deployed applications and share a header between them using Module Federation.",
+    "series": ["Module Federation"],
+    "technologies": ["module federation"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "b-Eo2v0EzFw",
+    "title": "Live: Four GraphQL Clients Compared",
+    "description": "Let's check out fetch, graphql-request, Apollo Client, and Relay, all on the same server so that you can see for yourself which one is the right one for your project.",
+    "series": [],
+    "technologies": ["graphql"],
+    "live": "zJvB2hnsXr0",
+    "languages": ["javascript"]
+  },
+  {
+    "id": "zJvB2hnsXr0",
+    "title": "Four GraphQL Clients Compared",
+    "description": "Let's check out fetch, graphql-request, Apollo Client, and Relay, all on the same server so that you can see for yourself which one is the right one for your project.",
+    "series": [],
+    "technologies": ["graphql"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "oQUpcAnN8v0",
+    "title": "XState Pizza Wizard!",
+    "description": "Check out the state machine builder XState as we build a pizza ordering wizard.",
+    "series": [],
+    "technologies": ["xstate", "react", "state management"],
+    "live": "JauJhGTBFsc",
+    "languages": ["javascript"]
+  },
+  {
+    "id": "JauJhGTBFsc",
+    "title": "XState Pizza Wizard!",
+    "description": "Check out the state machine builder XState as we build a pizza ordering wizard.",
+    "series": [],
+    "technologies": ["xstate", "react", "state management"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "G1gyXbLdRzc",
+    "title": "Expando Forms in React Hook Forms",
+    "description": "Learn how to make forms that expand to add new sections dynamically.",
+    "series": [],
+    "technologies": ["react-hook-form", "react"],
+    "live": "kh27J3nI_oY",
+    "languages": ["javascript"]
+  },
+  {
+    "id": "kh27J3nI_oY",
+    "title": "Expando Forms in React Hook Form",
+    "description": "Learn how to make forms that expand to add new sections dynamically.",
+    "series": [],
+    "technologies": ["react-hook-form", "react"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "JKj-J83Qop0",
+    "title": "Flexible Forms with React Hook Form LIVE!",
+    "description": "Learn about how to make forms with flexible sections, and also to use Module Federation to load in those form sections via dependency injection.",
+    "series": ["Module Federation"],
+    "technologies": ["react-hook-form", "react"],
+    "live": "hHXzchWLoqw",
+    "languages": ["javascript"]
+  },
+  {
+    "id": "hHXzchWLoqw",
+    "title": "Flexible Forms with React Hook Form",
+    "description": "Learn about how to make forms with flexible sections, and also to use Module Federation to load in those form sections via dependency injection.",
+    "series": ["Module Federation"],
+    "technologies": ["react-hook-form", "react"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "jOEfKdam2VM",
+    "title": "Module Federation in NextJS Today! Live!",
+    "description": "What if you could have Module Federation in NextJS today? Or in any Webpack 4 application! Learn how and ask questions as we go!",
+    "series": ["Module Federation"],
+    "technologies": ["module federation"],
+    "live": "d58QLA2bnug",
+    "languages": ["javascript"]
+  },
+  {
+    "id": "d58QLA2bnug",
+    "title": "Module Federation in NextJS Today!",
+    "description": "Learn all about how to use Module Federation, both to expose components and to consume components, with NextJS as it stands today on WebPack 4.",
+    "series": ["Module Federation"],
+    "technologies": ["module federation"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "n6ZQSq3f14M",
+    "title": "Module Federation on Rollup!",
+    "description": "Who wants to learn about using Module Federation in Rollup? I do! So we've got Zack Jackson and Jacob Ebey on to talk about it and lead us all through getting it set up.",
+    "series": ["Module Federation"],
+    "technologies": ["module federation"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "a8GkfYqaGew",
+    "title": "LIVE! A/B tests in Module Federation",
+    "description": "Build A/B test code, a statically deployed A/B test manager and figure out how to do unit testing with Federated Modules, all in on video!",
+    "series": ["Module Federation"],
+    "technologies": ["module federation"],
+    "live": "pGy5vrFJlH0",
+    "languages": ["javascript"]
+  },
+  {
+    "id": "pGy5vrFJlH0",
+    "title": "A/B tests in Module Federation",
+    "description": "Build A/B test code, a statically deployed A/B test manager and figure out how to do unit testing with Federated Modules, all in on video!",
+    "series": ["Module Federation"],
+    "technologies": ["module federation"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "3zyd6qFKh4Y",
+    "title": "LIVE! How to build a resilient shared Header/Footer using Module Federation",
+    "description": "What's the one thing you need to share between micro-site applications? The Header and the Footer. So how do we share them so that they live update across all of the sites when deployed, but safe enough so that the code intelligently falls back on a functional older version in the case of an issue.",
+    "series": ["Module Federation"],
+    "technologies": ["module federation"],
+    "live": "K-yQB9YGmgE",
+    "languages": ["javascript"]
+  },
+  {
+    "id": "iwPGS-2kvSA",
+    "title": "Full Site Federation",
+    "description": "Now that you know about the basics of Module Federation in Webpack 5 let's convert an entire micro-site based architecture to a fully federated site. Live! With your questions answered as we go!",
+    "series": ["Module Federation"],
+    "technologies": ["module federation"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "K-yQB9YGmgE",
+    "title": "How to build a resilient shared Header/Footer using Module Federation",
+    "description": "What's the one thing you need to share between micro-site applications? The Header and the Footer. So how do we share them so that they live update across all of the sites when deployed, but safe enough so that the code intelligently falls back on a functional older version in the case of an issue.",
+    "series": ["Module Federation"],
+    "technologies": ["module federation"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "JWYgEQgik00",
+    "title": "Getting Started with Module Federation",
+    "description": "Learn all about this exciting new way to share code between web applications. This is a code level walkthrough where you get to ask all the questions you like along the way.",
+    "series": ["Module Federation"],
+    "technologies": ["module federation"],
+    "languages": ["javascript"],
+    "live": "DHjZnJRK_S8"
+  },
+  {
+    "id": "DHjZnJRK_S8",
+    "title": "Getting Started with Module Federation",
+    "description": "Learn all about this exciting new way to share code between web applications. This is a code level walkthrough where you get to ask all the questions you like along the way.",
+    "series": ["Module Federation"],
+    "technologies": ["module federation"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "W0RbrAZtj7I",
+    "title": "Full Site Federation in Webpack 5",
+    "description": "When we moved from monoliths to micro-sites we lost out on easy code sharing, single page applications, and it made it much harder to end-to-end test, and to understand the system as a whole. See how Module Federation brings all that back while still maintaining the ability to independently deploy applications.",
+    "series": ["Module Federation"],
+    "technologies": ["module federation"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "GkUFmlVs-No",
+    "title": "Live Preview in CMS with Module Federation",
+    "description": "See for yourself how two applications, a CMS admin application, and a customer facing rendering application (that also supports editing) are brought together, sharing code live, using Webpack 5's Module Federation functionality.",
+    "series": ["Module Federation"],
+    "technologies": ["module federation"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "x22F4hSdZJM",
+    "title": "Introducing Module Federation",
+    "description": "Let's take five minutes to get to know Module Federation, a new code sharing technique that makes it easy to share code between micro-site teams.",
+    "series": ["Module Federation"],
+    "technologies": ["module federation"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "aHA581Mp2Mo",
+    "title": "Recoil; The Best Micro-FE/Mod-Fed State Manager?",
+    "description": "Let's check out Recoil and see how handles state management in a Micro-FE/Module Federation application space.",
+    "series": ["Module Federation"],
+    "technologies": ["recoil"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "tigwyK5Khck",
+    "title": "Federate Module Dashboard",
+    "description": "Let's use Webpack 5's Federated Modules, along with Recoil, Emotion and react-minimal-pie-chart to make a dashboard that's build on top of a vanilla create-react-app application. It's so cool! Let's do this!",
+    "series": [],
+    "technologies": ["module federation"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "2DbX0xFL0nk",
+    "title": "Build A K K Slider Slider",
+    "description": "Let's use Framer Motion on React to create a swipeable carousel for K K Slider album covers!",
+    "series": [],
+    "technologies": ["react", "framer motion"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "2tJedF8I-8Q",
+    "title": "CSR, SSR, and SSG on NextJS",
+    "description": "Let's take a single app and build it three ways, with client side rendering (CSR), server side rendering (SSR) and static site generation (SSG) all using NextJS 9.3.",
+    "series": [],
+    "technologies": ["nextjs"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "ZG3xZP0SXYs",
+    "title": "React Refresh in CRA in 5 minutes",
+    "description": "Hot module reloading is so ... 2015(?) ... There is a better way and it's coming soon.",
+    "series": [],
+    "technologies": ["react"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "oAtlrDD7eFM",
+    "title": "NextJS on Heroku with React-Query and Squirrel Picnic Tables",
+    "description": "Let's learn how to deploy NextJS on Heroku, with APIs, using React-Query to make a non-sensical application around Squirrel Picnic tables, because, why not?",
+    "series": [],
+    "technologies": ["nextjs"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "0nDGeQKLFjo",
+    "title": "React Hook Form - React Forms Episode II",
+    "description": "Let's get back into forms and look at your recommendation `react-hook-form`!",
+    "series": [],
+    "technologies": ["react-hook-form"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "HUVawJXeHfU",
+    "title": "Yarn 2 (Berry) - Plug'n'play, Constraints and Workspaces",
+    "description": "Let's check out Yarn v2 and its amazing new features. There's plug-n-play loading for node modules that gives you much better loading performance. And there are constraints that can manage your dependencies across your projects.",
+    "series": [],
+    "technologies": ["yarn"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "pM5I2h7qjow",
+    "title": "Comparing Plain React, Formik and Final Form for forms",
+    "description": "Forms managers; formik and final-form, are they better than just using React directly? Let's find out!",
+    "series": [],
+    "technologies": ["formik", "final-form", "react-hook-form"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "J81MS6H1NBQ",
+    "title": "Tech A Day #31 - VanillaJS",
+    "description": "Closing out the Tech A Day series with a VanillaJS search application for Rifftrax movies.",
+    "series": ["Tech A Day"],
+    "technologies": ["vanillaJS"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "F333XhHyoLs",
+    "title": "Tech A Day #30 - GraphQL",
+    "description": "Learn all about creating a GraphQL aggregation server and putting a UI on it by creating a rescue dog site!",
+    "series": ["Tech A Day"],
+    "technologies": ["graphql"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "DM6CgUFyXxw",
+    "title": "Tech A Day #28 - Vue",
+    "description": "Let's check out Vue by building an Animal Crossing New Horizons pricing search page.",
+    "series": ["Tech A Day"],
+    "technologies": ["vue"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "yZPGUHRUXVw",
+    "title": "Tech A Day #29 - RxJS",
+    "description": "Let's check out how to make observable streams with RxJS!",
+    "series": ["Tech A Day"],
+    "technologies": ["rxjs"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "dMkYWwYmJB8",
+    "title": "Tech A Day #27 - Design Tokens",
+    "description": "Four different ways to have design tokens that you can adjust and change the look of your site, consistently, from a single spot, in both CSS and React.",
+    "series": ["Tech A Day"],
+    "technologies": [],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "AknVkHeYqqg",
+    "title": "Tech A Day #26 - Storybook",
+    "description": "Show off your components, and even get insights into rendering performance using a new addon from Atlassian.",
+    "series": ["Tech A Day"],
+    "technologies": ["storybook"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "RCgJQq_pDfg",
+    "title": "Tech A Day #25 - Closures",
+    "description": "Understanding closures is critical to becoming the best Javascript engineer. Let me introduce them to you in a very practical way.",
+    "series": ["Tech A Day"],
+    "technologies": [],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "MLLALr3ctoE",
+    "title": "Tech A Day #24 - Strings",
+    "description": "There is soooo much you can do with Javascript strings, let's check it out!",
+    "series": ["Tech A Day"],
+    "technologies": [],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "UMgPDiYv_BU",
+    "title": "Tech A Day #23 - NextJS 9.3",
+    "description": "NextJS has come out with the 9.3 release that allows for static site generation. It's a trifecta; client side rendering, server side render, and static site generation, all in one framework. It's amazing stuff, let's check it out.",
+    "series": ["Tech A Day"],
+    "technologies": ["nextjs"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "LuiRtyxd-Ms",
+    "title": "Tech A Day #22 - Dates",
+    "description": "Do you really need moment? Let's find out as we delve deep into Date objects.",
+    "series": ["Tech A Day"],
+    "technologies": [],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "muCLu1-v_zA",
+    "title": "Tech A Day #21 - Functions",
+    "description": "Let's jump into the different ways to define, call, reflect and extend functions.",
+    "series": ["Tech A Day"],
+    "technologies": [],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "7ldI5jBsmlI",
+    "title": "Tech A Day #20 - Objects",
+    "description": "We've done an in-depth look at arrays. Let's have a look at all the myriad of things you can do with a Javascript \"Object\". And spoiler alert, it's a lot.",
+    "series": ["Tech A Day"],
+    "technologies": [],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "_g9Wc70AW28",
+    "title": "URQL for GraphQL - Part 2",
+    "description": "Let's finish up our URQL and GraphQL Yoga based chat app by making it subscriptions and websockets based.",
+    "series": [],
+    "technologies": ["graphql", "urql"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "zqnkzWxZaw0",
+    "title": "Tech A Day #19 - Electron Soundboard",
+    "description": "Build a soundboard with canned answers for boring video conferences.",
+    "series": ["Tech A Day"],
+    "technologies": [],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "R6KT30u7Lz4",
+    "title": "Tech A Day #18 - Deno",
+    "description": "Check out the possible successor to node; deno!",
+    "series": ["Tech A Day"],
+    "technologies": ["deno"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "9OMb-HsT8xE",
+    "title": "Tech A Day #17 - Gatsby",
+    "description": "As per your request, three ways to make pages in Gatsby!",
+    "series": ["Tech A Day"],
+    "technologies": ["gatsby"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "HeZWhcq_N8w",
+    "title": "Tech A Day #16 - GraphQL in Memory",
+    "description": "Why settle for Redux to manage your data when you could just use GraphQL in memory? Crazy? Maybe. But an interesting experiment none the less.",
+    "series": ["Tech A Day"],
+    "technologies": ["graphql"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "Wdbs16X_zD8",
+    "title": "Tech A Day #15 - Next JS + SSR",
+    "description": "Let's start a NextJS project, then get it to SSR pages using data from a GraphQL server using our new friend #urql.",
+    "series": ["Tech A Day"],
+    "technologies": ["nextjs"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "wyYj_zGPJYI",
+    "title": "DIY Virus Simulator",
+    "description": "Learn about how to make a virus simulator using React, SVG, Quadtrees and requestAnimationFrame.",
+    "series": [],
+    "technologies": ["react", "svg"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "5A0QGlxuTSU",
+    "title": "URQL for GraphQL - Part 1",
+    "description": "Let's check out the URQL client library for GraphQL and use it to make a chat app.",
+    "series": [],
+    "technologies": ["graphql", "urql"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "naBlHw5ooes",
+    "title": "Tech A Day #13 - Prettier and ESLint",
+    "description": "Let's get a project set up with ESLint and Prettier working happily together and integrated into VS Code.",
+    "series": ["Tech A Day"],
+    "technologies": ["prettier", "eslint"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "OvUfDgY2VFI",
+    "title": "Tech A Day #12 - Playroom",
+    "description": "Want to show off your component and let people hack together POCs interactively? Playroom might be just what you are looking for.",
+    "series": ["Tech A Day"],
+    "technologies": ["playroom"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "IeHKPmntcUg",
+    "title": "Tech A Day #11 - Neumorphic Design",
+    "description": "Learn about the design trend of Neumorphism, what it is, how it relates to where we are now and other design trends, and have a quick look at a React library that implements a few neumorphic components.",
+    "series": ["Tech A Day"],
+    "technologies": ["neumorphism"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "fxbWuVdL3dI",
+    "title": "Tech A Day #10 - GSAP",
+    "description": "Check out this gooey droplets loader that uses a combination of SVG graphics and GSAP animations to make a really cool loader effect.",
+    "series": ["Tech A Day"],
+    "technologies": ["svg", "gsap"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "hos57NmSaP8",
+    "title": "Tech A Day #9 - Svelte",
+    "description": "Svelte is sooo cool. A framework-less framework that makes it easy to build component oriented UI code that works fast and has a minuscule bundle size.",
+    "series": ["Tech A Day"],
+    "technologies": ["svelte"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "-B3p_D2HhgA",
+    "title": "Tech A Day #8 - Snowpack",
+    "description": "Want a fast ecmascript module based development flow. Check out how easy it is to get preact set up with Snowpack, and try it yourself!",
+    "series": ["Tech A Day"],
+    "technologies": ["snowpack"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "mcMw8EMMV74",
+    "title": "K D Tree + D&D = Pretty Cool",
+    "description": "Let's make a monster finder using a K-D tree algorithm, React and Material-UI.",
+    "series": [],
+    "technologies": ["algorithms", "react", "material ui"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "EetuyzdOIas",
+    "title": "Tech A Day #7 - GQLess in 5 minutes",
+    "description": "Check out this lightweight way to query from a GraphQL server, in just five minutes!",
+    "series": ["Tech A Day"],
+    "technologies": ["graphql"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "D3PuSLokPZg",
+    "title": "Tech a day #6 - Streaming JSON",
+    "description": "You want to parse through a ton of JSON data, but you don't want to load it all into memory. How do you do that?",
+    "series": ["Tech A Day"],
+    "technologies": [],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "guv7TyeOY3o",
+    "title": "Tech A Day #5 - AlpineJS",
+    "description": "Let's check out AlpineJS, a super lightweight way to add interactivity to a web page!",
+    "series": ["Tech A Day"],
+    "technologies": ["alpinejs"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "xBMp--SjeEI",
+    "title": "Tech A Day #4 - Debugging",
+    "description": "Let's talk about debugging and building better tested Javascript in general.",
+    "series": ["Tech A Day"],
+    "technologies": ["debugging", "testing"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "svJlpbfOG1w",
+    "title": "Tech A Day #3 - Tailwind CSS",
+    "description": "Get to know this cool pluggable utility based CSS framework!",
+    "series": ["Tech A Day"],
+    "technologies": ["tailwind"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "49IWKWOZthY",
+    "title": "Tech A Day #2 - Linaria",
+    "description": "Treat yourself to some no-runtime CSS in JS today!",
+    "series": ["Tech A Day"],
+    "technologies": ["linaria"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "NCSkAUP3Nv0",
+    "title": "Tech A Day #1 - RedwoodJS",
+    "description": "While we have this time, let's make ourselves better engineers, by learning about a new tech topic every day! Starting today with RedwoodJS.",
+    "series": ["Tech A Day"],
+    "technologies": ["redwoodJS"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "wxnwPLLIJCY",
+    "title": "Single Spa + Federated Modules = Wow!",
+    "description": "What do you get when you put Single Spa and Federated Modules in Webpack 5 together? Any framework on any app in a way that makes it much easier to maintain.",
+    "series": ["Module Federation"],
+    "technologies": ["single spa", "module federation"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "D3XYAx30CNc",
+    "title": "Introducing Module Federation in Webpack 5",
+    "description": "Want to share code dynamically between web applications but don't want to use libraries or custom Micro-FE frameworks. Check out what's in store for you with Webpack 5 and how federated modules will fundamentally change how you view web applications.",
+    "series": ["Module Federation"],
+    "technologies": ["module federation"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "GjkQS5J6K6k",
+    "title": "True dynamic loaded components in React",
+    "description": "Learn how to use Ecmascript modules, Rollup and externalized globals to make a truly independently deployable component framework.",
+    "series": [],
+    "technologies": ["react", "rollup", "micro frontends"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "gtnDe_2YzFQ",
+    "title": "Javascript Modules in detail - Part 3",
+    "description": "Let's finish up our Javascript modules based DIY Micro-FE example (phew, that's a mouthful) by turning one of the Micro-FEs into a React App.\n\nThis will show you how to use Snowpack to develop a Javascript/Ecmascript module based React App.",
+    "series": ["Javascript Modules in detail"],
+    "technologies": [],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "w58aZjACETQ",
+    "title": "Micro-Frontends: What, why and how",
+    "description": "Find out all about Micro Frontends at the high level. Why are they interesting? What are the advantages and disadvantages? And how would you get started in moving your site into a Micro-FE architecture.",
+    "series": [],
+    "technologies": ["micro frontends"],
+    "languages": []
+  },
+  {
+    "id": "d7SL7dckSf0",
+    "title": "Javascript Modules in detail - Part 2",
+    "description": "Let's learn about asynchronous Javascript module loading by turning our simple JS application into a Micro-FE application by creating our own Micro-FE framework and porting the code to it. This will teach you everything you need to know about practical use of Javascript modules.",
+    "series": ["Javascript Modules in detail"],
+    "technologies": [],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "mMB8DNLotDs",
+    "title": "Javascript Modules in detail - Part 1",
+    "description": "Learn about Javascript modules by making a simple modules based e-Commerce UI. In part 2 we'll refactor the modules into micro-fe's and load them on demand. And in the third video we will migrate one of the modules to react using Snowpack.",
+    "series": ["Javascript Modules in detail"],
+    "technologies": [],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "P2n3huc2gO4",
+    "title": "Svelte and Scones!",
+    "description": "Learn how to do simple data binding in Svelte, and also how to cook scones on this hybrid cooking/coding show.",
+    "series": [],
+    "technologies": ["svelte"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "aDqGIhl7cdo",
+    "title": "Multithreading in Javascript Using Worker Threads",
+    "description": "Find out how to using Worker Threads in Javascript to multi-thread your app and get amazing performance boosts. This is a practical video, we walk through taking traditional single threaded code and porting it to multithreading.",
+    "series": [],
+    "technologies": ["javascript", "multithreading"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "nMhD9IB9YJ8",
+    "title": "Webpack, Rollup and Parcel Compared",
+    "description": "Let's build a React app using Webpack, Rollup and Parcel to compare these three bundlers.",
+    "series": [],
+    "technologies": ["webpack", "rollup", "parcel"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "J-M11cC_NL4",
+    "title": "JAMStack Overview",
+    "description": "A high level walkthrough of JAMStack so you can decide if this new way of developing and deploying web applications is the right choice for your project.",
+    "series": [],
+    "technologies": ["jamstack"],
+    "languages": []
+  },
+  {
+    "id": "4PoNBZl4t0Y",
+    "title": "Edge Side Includes for Micro-FEs",
+    "description": "Learn how to use Edge Side Includes (ESI) in your Micro-Frontend solutions.",
+    "series": [],
+    "technologies": ["micro frontends"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "ENdfu4WrSHI",
+    "title": "Parcel Even Easier",
+    "description": "Parcel is even better and easier than I originally thought.",
+    "series": [],
+    "technologies": ["parcel"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "gC6VMCdCrdU",
+    "title": "Time Travel Debugging with Wallaby",
+    "description": "Check out Wallaby’s new time travel debugging mode.",
+    "series": [],
+    "technologies": ["wallaby"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "2jhTHjF-e2Y",
+    "title": "Micro-FEs in Zoid",
+    "description": "Zoinks scoop! Let’s jump in the van in figure out the mystery of a micro-FE framework built on iFrames.",
+    "series": [],
+    "technologies": ["micro frontends", "zoid"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "4U067O3_fYk",
+    "title": "DIY Micro-FE Framework",
+    "description": "Haven’t found a Micro-FE framework that works for you? Let’s build one!",
+    "series": [],
+    "technologies": ["micro frontends"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "6lkKS6I0kKM",
+    "title": "Fetching Data in React Concurrent Mode",
+    "description": "Learn about how to use concurrent mode to give your users better feedback on asynchronous operations.",
+    "series": [],
+    "technologies": ["react"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "_HJzgBKme8Q",
+    "title": "React To Vanilla JS",
+    "description": "Learn about porting a React app to vanilla JS.",
+    "series": [],
+    "technologies": ["react", "vanillaJS"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "FFu0-9hGyX4",
+    "title": "Vanilla JS for React Developers",
+    "description": "Just know React and now you want to learn how to code without it, directly to the browser? Come along and find out.",
+    "series": [],
+    "technologies": ["vanillaJS", "react"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "5Ck7YDx_8dQ",
+    "title": "All About Parcel",
+    "description": "Learn about my new favorite bundler Parcel and how it’s zero configuration bundling can make building sites a breeze.",
+    "series": [],
+    "technologies": ["parcel"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "4zRhgxctUYQ",
+    "title": "JSX For VanillaJS",
+    "description": "Using JSX to create vanillaJS components the literate way.",
+    "series": [],
+    "technologies": ["vanillaJS"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "8a7nbAr-Ndo",
+    "title": "Before and After Sliders in Svelte",
+    "description": "Use Svelte to create an interactive before and after slider using CSS and clip-path.",
+    "series": [],
+    "technologies": ["svelte"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "CO7vEjsw3cc",
+    "title": "Custom Elements in Svelte",
+    "description": "Learn how to turn your Svelte components into custom elements in four easy steps.",
+    "series": [],
+    "technologies": ["svelte", "web components"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "Hsk5tM_N420",
+    "title": "Custom Elements in React From Scratch",
+    "description": "Put your cool React components on any web page by turning them into custom elements.",
+    "series": [],
+    "technologies": ["web components", "react"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "WODwVKK60Ug",
+    "title": "Poker Calculator in Vue - Part 2",
+    "description": "Finishing up the Poker Calculator by adding a Vuetify UI.",
+    "series": ["Projects"],
+    "technologies": ["vue"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "8wxcHBT9MCA",
+    "title": "Poker Calculator in Vue - Part 1",
+    "description": "Part 1 covers the Typescript engine used to simulate all the poker hands and tables. Part 2 covers the UI code.",
+    "series": ["Projects"],
+    "technologies": ["vue"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "M_7Pa6ndAWw",
+    "title": "CSS Isolation using the Shadow DOM Quick Take",
+    "description": "Using the Shadow DOM for CSS isolation outside of the context of a custom element.",
+    "series": [],
+    "technologies": ["web components"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "XrhbhKoAMEM",
+    "title": "Star Bars part 2",
+    "description": "Finish up our animated progress bar with embedded stars using Svelte and SVG.",
+    "series": ["Projects"],
+    "technologies": ["svelte", "svg"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "AmPkLy3Frtc",
+    "title": "Star Bars part 1",
+    "description": "Use Svelte and SVG to create an animated progress bar with stars in it.",
+    "series": ["Projects"],
+    "technologies": ["svelte", "svg"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "7XeX5SPKicQ",
+    "title": "React Drops using Immer",
+    "description": "Find out how to use Immer to manage the state of a simple 2D puzzle game to React.",
+    "series": [],
+    "technologies": ["react", "immer"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "XUtCnA9WEgQ",
+    "title": "Web Components for Micro Frontends",
+    "description": "Find out how to build custom elements in Vue, React and vanilla JS, and how to use them as a Micro Frontend framework.",
+    "series": [],
+    "technologies": ["web components", "micro frontends"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "wU06eTMQ6yI",
+    "title": "Micro Frontends using Single SPA",
+    "description": "Learn about how to create Micro frontends using Single SPA by building a product detail page.",
+    "series": [],
+    "technologies": ["micro frontends", "singlespa"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "3-Qr8yaA49A",
+    "title": "Vue Drops part 2",
+    "description": "The second part of the Vue Drops series where I show the UI that’s built on to top the game engine.",
+    "series": ["Projects"],
+    "technologies": ["vue"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "9CG0LeswOoM",
+    "title": "Micro Frontends using OpenComponents",
+    "description": "Learn more about Micro Frontends using, implemented using OpenComponents, with an example Product Detail Page.",
+    "series": [],
+    "technologies": ["micro frontends", "opencomponents"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "Df02njZiPMU",
+    "title": "Vue Drops part 1",
+    "description": "I’m building an educational copy of a game called Hue Drops in Vue using Typescript. In this video we go through the game engine code that drives the game. In part 2 we’ll put the UI on it.",
+    "series": ["Projects"],
+    "technologies": ["vue"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "g1LtqLVKgIA",
+    "title": "Web Components - 4 - Integrating with React",
+    "description": "Shows you how to integrate your web components into a React application with custom events.",
+    "series": ["Web Components"],
+    "technologies": ["web components"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "cHUAvVkOBvY",
+    "title": "Web Components 2 - Attributes, Properties and Events",
+    "description": "Learn about how to properly handle attributes and properties. Listening for events internal to the custom element as well as dispatching events externally are also covered.",
+    "series": ["Web Components"],
+    "technologies": ["web components"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "_Tr9ZcXcMjQ",
+    "title": "Web Components - 1 - Custom Elements, Templates and the Shadow DOM",
+    "description": "Learn about the basics of Web Components including custom elements, template tags and the shadow DOM.",
+    "series": ["Web Components"],
+    "technologies": ["web components"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "sndI4pxdB9U",
+    "title": "Web Components - 3 - Tranclusion",
+    "description": "Learn how to use slots in web components to transclude elements into your custom elements.",
+    "series": ["Web Components"],
+    "technologies": ["web components"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "tnZQtgRbgAY",
+    "title": "Vuewel Plop - Part 1",
+    "description": "In part one we create the app and set up the basic layout.",
+    "series": ["Projects"],
+    "technologies": ["vue"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "Eai3suK8wdI",
+    "title": "Vuewel Plop - Part 4",
+    "description": "In part four we finish up the game by adding the game mechanics to the VueX store.",
+    "series": ["Projects"],
+    "technologies": ["vue"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "Uek8JJgzf9c",
+    "title": "Vuewel Plop - Part 3",
+    "description": "In part three we add the play area component and set up the store to generate the initial layout.",
+    "series": ["Projects"],
+    "technologies": ["vue"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "wnOJy9KOimE",
+    "title": "Vuewel Plop - Part 2",
+    "description": "In part two we build the Vuewel SVG component that is the game play element.",
+    "series": ["Projects"],
+    "technologies": ["vue"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "HpSKeIN83Y0",
+    "title": "Vue Drum Machine Part 5",
+    "description": "In part five we add a Step component and check for updated state in the VueX inspector.",
+    "series": ["Projects"],
+    "technologies": ["vue"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "m8EgBF8yLe4",
+    "title": "Vue Drum Machine Part 7",
+    "description": "In part seven we finish up the UI and get ready to make it responsive.",
+    "series": ["Projects"],
+    "technologies": ["vue"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "Y90ZZ3riz-4",
+    "title": "Vue Drum Machine Part 8",
+    "description": "In part eight we take the completed drum machine and upgrade it to be responsive so that it looks good on all the devices.",
+    "series": ["Projects"],
+    "technologies": ["vue"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "f49fMk5VZCc",
+    "title": "Vue Drum Machine Part 6",
+    "description": "In part six we finish the sequencer part of the UI.",
+    "series": ["Projects"],
+    "technologies": ["vue"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "O-CIdWT4wNw",
+    "title": "Vue Drum Machine Part 4",
+    "description": "In part four we add the BPM and Start/Stop controls.",
+    "series": ["Projects"],
+    "technologies": ["vue"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "u9maBxTiYsM",
+    "title": "Vue Drum Machine Part 2",
+    "description": "In part two we load up the sounds.",
+    "series": ["Projects"],
+    "technologies": ["vue"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "ae7i4nj7TH0",
+    "title": "Vue Drum Machine Part 3",
+    "description": "In part three we add the FX buttons to the bottom of the drum machine UI.",
+    "series": ["Projects"],
+    "technologies": ["vue"],
+    "languages": ["javascript"]
+  },
+  {
+    "id": "oYyyw9aQTXI",
+    "title": "Vue Drum Machine - Part 1",
+    "description": "In part one we go through the project and set it up using the Vue CLI.",
+    "series": ["Projects"],
+    "technologies": ["vue"],
+    "languages": ["javascript"]
+  }
+]
