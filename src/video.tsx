@@ -1,5 +1,5 @@
 import { useEffect, useMemo } from "react";
-import { createGlobalState } from "react-use";
+import { createGlobalState } from "react-hooks-global-state";
 
 interface Thumbnail {
   url: string;
@@ -28,10 +28,21 @@ export interface Video {
   live?: string;
 }
 
-const useAllVideos = createGlobalState<Video[]>([]);
-const useSearch = createGlobalState<string>("");
-const useSelectedTechnologies = createGlobalState<string[]>([]);
-const useSelectedLanguages = createGlobalState<string[]>([]);
+const { useGlobalState } = createGlobalState<{
+  videos: Video[];
+  search: string;
+  selectedTechnologies: string[];
+  selectedLanguages: string[];
+}>({
+  videos: [],
+  search: "",
+  selectedTechnologies: [],
+  selectedLanguages: [],
+});
+const useAllVideos = () => useGlobalState("videos");
+const useSearch = () => useGlobalState("search");
+const useSelectedTechnologies = () => useGlobalState("selectedTechnologies");
+const useSelectedLanguages = () => useGlobalState("selectedLanguages");
 
 const arraysIntersect = (selected: string[], items: string[]) =>
   selected.length === 0 || items.some((item) => selected.includes(item));
