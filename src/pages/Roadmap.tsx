@@ -2,7 +2,7 @@ import React, { useMemo, Fragment } from "react";
 import { LocationMarkerIcon } from "@heroicons/react/outline";
 import { useParams } from "react-router-dom";
 
-import { useVideos } from "../video";
+import { useVideos, Video } from "../video";
 import VideoGrid from "../components/VideoGrid";
 
 const roadmaps: Record<
@@ -224,7 +224,7 @@ const Roadmap: React.FunctionComponent = () => {
           }
           return undefined;
         })
-        .filter(Boolean),
+        .filter(Boolean) as Video[],
     }));
   }, [name, videosById]);
 
