@@ -49,6 +49,18 @@ const Layout: React.FunctionComponent<{
         },
         { name: "Roadmaps", type: "divider" },
         {
+          name: "TypeScript Roadmap",
+          type: "navitem",
+          href: "/roadmap/typescript",
+          icon: MapIcon,
+        },
+        {
+          name: "React Roadmap",
+          type: "navitem",
+          href: "/roadmap/react",
+          icon: MapIcon,
+        },
+        {
           name: "Module Federation Roadmap",
           type: "navitem",
           href: "/roadmap/module-federation",

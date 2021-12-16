@@ -13,7 +13,7 @@ const curatedById = JSON.parse(readFileSync("curated.json").toString()).reduce(
 );
 
 const output = videos
-  .filter((video) => curatedById[video.id])
+  .filter((video) => curatedById[video.id] && !ignore.includes(video.id))
   .map((video) => ({
     id: video.id,
     publishedAt: video.snippet.publishedAt,

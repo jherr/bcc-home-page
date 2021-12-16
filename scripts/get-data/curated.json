@@ -129,7 +129,7 @@
     "id": "yo87SLp4jOo",
     "title": "Cleaning Up Copilot Code (Human vs AI) - maxChar",
     "description": "GitHub Copilot is a great helper, but you it's just the copilot. Let's take the pilot's chair and turn some not so great Copilot code and turn it into high quality production ready TypeScript code.",
-    "series": ["Basics"],
+    "series": [],
     "technologies": [],
     "languages": ["typescript"]
   },
@@ -145,7 +145,7 @@
     "id": "EH9Suo_J4Ks",
     "title": "Test Driven Development: The best way to code that I almost never use",
     "description": "Test Driven Development is a fantastic way to build code that you know is well tested and will work. I know I should code this way, but why don't I? Let's find out what Test Driven Development is, and see if you should give it a try as we apply it to basic JavaScript and TypeScript functions, custom React hooks and React components.",
-    "series": ["Basics"],
+    "series": [],
     "technologies": [],
     "languages": ["javascript"]
   },
@@ -161,7 +161,7 @@
     "id": "eAfUfKYcvBo",
     "title": "Senior Developer Workflow For Stress-Free Coding",
     "description": "Stop being frustrated with your code and take just a few minutes to learn an iterative workflow. Your code will always be working. Your stress level will be low. You'll be able to go for a lunch or a run and not worry about how to fix your broken code. And you'll be able to locate bugs down to just a few lines without doing extensive debugging.",
-    "series": ["Basics"],
+    "series": [],
     "technologies": [],
     "languages": ["javascript"]
   },
@@ -225,7 +225,7 @@
     "id": "0eoyWYP6I4Q",
     "title": "Nobody Wins A Programmer Fight",
     "description": "Healthy debate about things like React versus Vue, OOP versus FP, strongly typed versus dynamically typed is fine, but sometimes it can get ugly. So let's talk about how to mitigate the fallout from a technical debate that gets too heated.",
-    "series": ["Basics"],
+    "series": [],
     "technologies": [],
     "languages": []
   },
@@ -233,7 +233,7 @@
     "id": "bvdHVxqjv80",
     "title": "TypeScript/React Testing: Components, Hooks, Custom Hooks, Redux and Zustand",
     "description": "By viewer request we are looking at testing React TypeScript components all the way from render components, through components with state, asynchronous components, custom hooks, Redux and Zustand.",
-    "series": ["Basics"],
+    "series": [],
     "technologies": ["react", "redux", "zustand"],
     "languages": ["typescript"]
   },
@@ -273,7 +273,7 @@
     "id": "HxyaftP6hJ8",
     "title": "Avoid Bad Job Fits with Five Interviewer Questions",
     "description": "YOU get to ask questions during the interview, but so many folks don't use that opportunity to ask real questions that will weed out the bad jobs.",
-    "series": ["Basics"],
+    "series": [],
     "technologies": [],
     "languages": []
   },
@@ -297,7 +297,7 @@
     "id": "VcOMq3LQtBU",
     "title": "Mastering async code with Typescript and Javascript",
     "description": "Async code can be some of the hardest code to write in Typescript and Javascript, and we write it all the time. So let's build up some patterns for writing async/await code well, doing multiple stacked async calls, testing our async code, using promises for caching, and even supporting old school callbacks.",
-    "series": ["Basics"],
+    "series": [],
     "technologies": [],
     "languages": ["typescript"]
   },
@@ -305,7 +305,7 @@
     "id": "5m7Al81Um88",
     "title": "Five ways to beat burnout",
     "description": "Let's talk about what burnout is and how we can practically address it both personally and with changes at work.",
-    "series": ["Basics"],
+    "series": [],
     "technologies": [],
     "languages": []
   },
