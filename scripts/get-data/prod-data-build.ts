@@ -18,9 +18,8 @@ const output = videos
     id: video.id,
     publishedAt: video.snippet.publishedAt,
     title: video.snippet.title,
-    thumbnails: video.snippet.thumbnails,
+    thumbnail: video.snippet.thumbnails.medium.url,
     categoryId: video.snippet.categoryId,
-    tags: video.snippet.tags,
     ...curatedById[video.id],
   }));
 

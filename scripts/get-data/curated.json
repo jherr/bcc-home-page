@@ -1,5 +1,131 @@
 [
-  {
+    {
+      "id": "bk5JvHGFv3A",
+      "title": "Top Tech Trends For Web Developers in 2022",
+      "description": "So much cool stuff is happening in the development space right now, let me tell you what I'm tracking in 2022.",
+      "series": [
+      ],
+      "technologies": ["copilot", "ponicode", "preact", "solidjs", "svelte", "remix", "blazor", "stackblitz", "react-table", "tailwind-headless-ui"],
+      "languages": []
+    },
+    {
+      "id": "tcZbY-Q0TIE",
+      "title": "Is JavaScript Spread a Performance Killer? Quick Fix",
+      "description": "Using spreading with Array.reduce is a powerful pattern, but it can also be a performance killer. Let's learn what causes the performance issues and how to get around it while still keeping the same powerful functionality.",
+      "series": [
+        "JavaScript Quick Fixes"
+      ],
+      "technologies": [],
+      "languages": ["javascript"]
+    },
+    {
+      "id": "5zwzyHqBFnA",
+      "title": "JavaScript consts Aren't Constants - JavaScript Quick Fix",
+      "description": "Does JavaScript treat constant arrays and objects the same way as numbers, strings, and booleans? Turns out not. So let's see why that is and how, if you don't understand it, you can easily put bugs into your React applications.",
+      "series": [
+        "JavaScript Quick Fixes"
+      ],
+      "technologies": [],
+      "languages": ["javascript"]
+    },
+    {
+      "id": "p4XQeUaskeQ",
+      "title": "JavaScript's Most Controversial Array Methods (Part 6)",
+      "description": "Let's take a look at the destructive array methods in JavaScript: push, pop, shift, unshift, sort, reverse, splice and copyWithin.",
+      "series": [
+        "Javascript Arrays Made Simple"
+      ],
+      "technologies": [],
+      "languages": ["javascript"]
+    },
+    {
+      "id": "DjzlGfhUyAM",
+      "title": "Reduce: Mother of all Javascript Array Methods? (Part 5)",
+      "description": "Reduce is considered the hardest of the Array functions, is it? Let's try demystifying this super powerful Array method and give you the power to create anything you want from an arry.",
+      "series": [
+        "Javascript Arrays Made Simple"
+      ],
+      "technologies": [],
+      "languages": ["javascript"]
+    },
+    {
+      "id": "k42kEU2izKc",
+      "title": "Javascript Arrays Made Simple: Map and Flat (Part 4)",
+      "description": "Map is probably the most important single array method you will learn, particularly if you are a React developer. Let's dig into the powerful map method, and its associated methods to see just what we can do with them.",
+      "series": [
+        "Javascript Arrays Made Simple"
+      ],
+      "technologies": [],
+      "languages": ["javascript"]
+    },
+    {
+      "id": "rgZkd-RAYfE",
+      "title": "Remix Run Speedrun - Pokemon",
+      "description": "Is Remix Run more than just hype? Let’s find out by building out a multi-page Pokemon SPA to show you a bunch of the fundamentals: SSR data loading, Navigation, API Routes, page routes and parameters, and more.",
+      "series": [
+      ],
+      "technologies": ["remix"],
+      "languages": ["typescript"]
+    },
+    {
+      "id": "tcNRdIqDnjY",
+      "title": "Javascript Arrays Made Simple: Filter and Slice (Part 3)",
+      "description": "Filter is a critical array method to memorize in JavaScript. Filter will help you pair down your arrays to just the items that interest you in an intuitive and fast way. Learn all about the filter and slice methods in this video and get your arrays under control.",
+      "series": [
+        "Javascript Arrays Made Simple"
+      ],
+      "technologies": [],
+      "languages": ["javascript"]
+    },
+    {
+      "id": "XYq9QpgAx8g",
+      "title": "Javascript Arrays Made Simple: Indexing and Finding (Part 2)",
+      "description": "Lets dig into array methods like find, findIndex, includes, some, every and more to see how JavaScript helps us find out what is in our arrays.",
+      "series": [
+        "Javascript Arrays Made Simple"
+      ],
+      "technologies": [],
+      "languages": ["javascript"]
+    },
+    {
+      "id": "NaJI7RkSPx8",
+      "title": "Javascript Arrays Made Simple: Iterators (Part 1)",
+      "description": "Let's have a look at all the different ways to iterate through arrays; for, for(in), for(of) and forEach and figure out which ones you should use, and which you should NOT use.",
+      "series": [
+        "Javascript Arrays Made Simple"
+      ],
+      "technologies": [],
+      "languages": ["javascript"]
+    },
+    {
+      "id": "0vumsisnqwM",
+      "title": "Proxy & Flyweight Patterns - No BS TS Series 2 Episode 5",
+      "description": "We learn how to use the Proxy Design Pattern (and the Proxy object in JavaScript) to listen to key gets and sets in order to create on-demand hydrated objects (Flyweights) and a MobX style state manager.",
+      "series": [
+        "No BS TS"
+      ],
+      "technologies": [],
+      "languages": ["typescript"]
+    },
+    {
+      "id": "i8kner-Yrj0",
+      "title": "React Location: Better than React Router?",
+      "description": "React Router has been the best in class router for years now. But now the creator of React Query, Tanner Linsley, has developed and just released a new router for the Tanstack named React Location. Declarative routing? Check. Asynchronous route loading? Got it. Easy data pre-loading? Absolutely. This library is a blast and it works on both the client and the server. So let's give it a try.",
+      "series": [
+      ],
+      "technologies": ["react"],
+      "languages": ["typescript"]
+    },
+    {
+      "id": "HbSvuxr2kzA",
+      "title": "Fixing Bad Copilot Code - mergeArrays",
+      "description": "GitHub Copilot code is often amazing and sometimes terrifying. Let's take a O(N^3) mergeArrays implementation and turn it into a sleek O(N) ES6 near one liner, step by step.",
+      "series": [
+      ],
+      "technologies": [],
+      "languages": ["javascript"]
+    },
+    {
     "id": "yo87SLp4jOo",
     "title": "Cleaning Up Copilot Code (Human vs AI) - maxChar",
     "description": "GitHub Copilot is a great helper, but you it's just the copilot. Let's take the pilot's chair and turn some not so great Copilot code and turn it into high quality production ready TypeScript code.",

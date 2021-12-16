@@ -12,15 +12,8 @@ export interface Video {
   publishedAt: string;
   publishedDate: Date;
   title: string;
-  thumbnails: {
-    default: Thumbnail;
-    medium: Thumbnail;
-    high: Thumbnail;
-    standard: Thumbnail;
-    maxres: Thumbnail;
-  };
+  thumbnail: string;
   categoryId: string;
-  tags: string[];
   description: string;
   series: string[];
   technologies: string[];

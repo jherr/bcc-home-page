@@ -26406,5 +26406,1240 @@
       "actualEndTime": "2020-09-04T19:39:12Z",
       "scheduledStartTime": "2020-09-04T18:58:01Z"
     }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "HjNfFpkBRz7UNsBn0HhaJ37P_J8",
+    "id": "bk5JvHGFv3A",
+    "snippet": {
+      "publishedAt": "2021-12-13T16:00:05Z",
+      "channelId": "UC6vRUjYqDuoUsYsku86Lrsw",
+      "title": "Top Tech Trends For Web Developers in 2022",
+      "description": "So much cool stuff is happening in the development space right now, let me tell you what I'm tracking in 2022.\n\nGitHub Copilot: https://copilot.github.com/\nTabnine: https://www.tabnine.com/\nPonicode: https://www.ponicode.com/\nPreact: https://preactjs.com/\nSolidJS: https://www.solidjs.com/\nSvelte: https://svelte.dev/\nRemix Run: https://remix.run/\nBlazor: https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor\nStackblitz: https://stackblitz.com/\nReact-Table: https://react-table.tanstack.com/\nTailwind Headless UI: https://tailwindcss.com/blog/headless-ui-v1\n\n👉 What's my theme? Night Wolf [black]\n👉 What's that font? Operator Mono\n👉 I'm a host on the React Round Up podcast: https://devchat.tv/podcasts/react-round-up/\n👉 Don't forget to subscribe to this channel for more updates: https://bit.ly/2E7drfJ\n👉 Discord server signup: https://discord.gg/ddMZFtTDa5\n\n00:00 Introduction\n00:20 #1 AI Coding\n01:06 #2 Lightweight Frameworks\n01:42 #3 Classic Web Frameworks\n02:20 #4 WebAssembly\n03:10 #5 Headless UI Libraries\n03:38 Outroduction\n\n#techTrends",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bk5JvHGFv3A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bk5JvHGFv3A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bk5JvHGFv3A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bk5JvHGFv3A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bk5JvHGFv3A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jack Herrington",
+      "tags": [
+        "blue collar coder",
+        "jack herrington",
+        "top tech trends",
+        "top tech trends 2022",
+        "developer trends 2022",
+        "top tech trends in 2022",
+        "tech trends blue collar coder",
+        "top tech trends for developers in 2022",
+        "top developer tech trends",
+        "tech trends jack herrington",
+        "top tech trends for developers",
+        "AI tech tools",
+        "tech trends in 2022",
+        "developer tech trends 2022",
+        "developer tech trends"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Top Tech Trends For Web Developers in 2022",
+        "description": "So much cool stuff is happening in the development space right now, let me tell you what I'm tracking in 2022.\n\nGitHub Copilot: https://copilot.github.com/\nTabnine: https://www.tabnine.com/\nPonicode: https://www.ponicode.com/\nPreact: https://preactjs.com/\nSolidJS: https://www.solidjs.com/\nSvelte: https://svelte.dev/\nRemix Run: https://remix.run/\nBlazor: https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor\nStackblitz: https://stackblitz.com/\nReact-Table: https://react-table.tanstack.com/\nTailwind Headless UI: https://tailwindcss.com/blog/headless-ui-v1\n\n👉 What's my theme? Night Wolf [black]\n👉 What's that font? Operator Mono\n👉 I'm a host on the React Round Up podcast: https://devchat.tv/podcasts/react-round-up/\n👉 Don't forget to subscribe to this channel for more updates: https://bit.ly/2E7drfJ\n👉 Discord server signup: https://discord.gg/ddMZFtTDa5\n\n00:00 Introduction\n00:20 #1 AI Coding\n01:06 #2 Lightweight Frameworks\n01:42 #3 Classic Web Frameworks\n02:20 #4 WebAssembly\n03:10 #5 Headless UI Libraries\n03:38 Outroduction\n\n#techTrends"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT4M",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "7135",
+      "likeCount": "548",
+      "favoriteCount": "0",
+      "commentCount": "46"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/bk5JvHGFv3A\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    },
+    "topicDetails": {
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Knowledge"
+      ]
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "eSHyDSbOAQIWTZs-J5UC7jUDrec",
+    "id": "tcZbY-Q0TIE",
+    "snippet": {
+      "publishedAt": "2021-12-06T15:54:17Z",
+      "channelId": "UC6vRUjYqDuoUsYsku86Lrsw",
+      "title": "Is JavaScript Spread a Performance Killer? Quick Fix",
+      "description": "(I said destructuring when what I'm really doing is spreading, same performance impacts apply regardless of the terminology.)\n\nUsing spreading with Array.reduce is a powerful pattern, but it can also be a performance killer. Let's learn what causes the performance issues and how to get around it while still keeping the same powerful functionality.\n\nCode: https://github.com/jherr/javascript-quick-fixes/tree/main/destructuring-is-slow\n\n👉 What's my theme? Night Wolf [black]\n👉 What's that font? Operator Mono\n👉 I'm a host on the React Round Up podcast: https://devchat.tv/podcasts/react-round-up/\n👉 Don't forget to subscribe to this channel for more updates: https://bit.ly/2E7drfJ\n👉 Discord server signup: https://discord.gg/ddMZFtTDa5\n\n00:00 Introduction\n00:35 Object speading performance\n05:45 Array speading performance\n08:06 Why do we do this?\n09:10 Outroduction\n\nThank you for watching this video, click the \"SUBSCRIBE\" button to stay connected with this channel. \n\n#javascript #quickFix",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tcZbY-Q0TIE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tcZbY-Q0TIE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tcZbY-Q0TIE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tcZbY-Q0TIE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tcZbY-Q0TIE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jack Herrington",
+      "tags": [
+        "javascript",
+        "javascript quick fix",
+        "blue collar coder",
+        "jack herrington",
+        "jack herrington javascript",
+        "JavaScript Quick Fix",
+        "javascript reduce",
+        "javascript destructuring",
+        "destructuring arrays",
+        "destructuring objects",
+        "javascript performance",
+        "Is JavaScript Destructuring a Performance Killer?",
+        "javascript spread operator quick fix",
+        "spreading array"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Is JavaScript Spread a Performance Killer? Quick Fix",
+        "description": "(I said destructuring when what I'm really doing is spreading, same performance impacts apply regardless of the terminology.)\n\nUsing spreading with Array.reduce is a powerful pattern, but it can also be a performance killer. Let's learn what causes the performance issues and how to get around it while still keeping the same powerful functionality.\n\nCode: https://github.com/jherr/javascript-quick-fixes/tree/main/destructuring-is-slow\n\n👉 What's my theme? Night Wolf [black]\n👉 What's that font? Operator Mono\n👉 I'm a host on the React Round Up podcast: https://devchat.tv/podcasts/react-round-up/\n👉 Don't forget to subscribe to this channel for more updates: https://bit.ly/2E7drfJ\n👉 Discord server signup: https://discord.gg/ddMZFtTDa5\n\n00:00 Introduction\n00:35 Object speading performance\n05:45 Array speading performance\n08:06 Why do we do this?\n09:10 Outroduction\n\nThank you for watching this video, click the \"SUBSCRIBE\" button to stay connected with this channel. \n\n#javascript #quickFix"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT9M34S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "11758",
+      "likeCount": "845",
+      "favoriteCount": "0",
+      "commentCount": "101"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/tcZbY-Q0TIE\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    },
+    "topicDetails": {
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Knowledge"
+      ]
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "gM9E_bG49xxojFMD0Pd7NG-X3Oc",
+    "id": "5zwzyHqBFnA",
+    "snippet": {
+      "publishedAt": "2021-12-02T16:00:03Z",
+      "channelId": "UC6vRUjYqDuoUsYsku86Lrsw",
+      "title": "JavaScript consts Aren't Constants - JavaScript Quick Fix",
+      "description": "Does JavaScript treat constant arrays and objects the same way as numbers, strings, and booleans? Turns out not. So let's see why that is and how, if you don't understand it, you can easily put bugs into your React applications.\n\n👉 What's my theme? Night Wolf [black]\n👉 What's that font? Operator Mono\n👉 I'm a host on the React Round Up podcast: https://devchat.tv/podcasts/react-round-up/\n👉 Don't forget to subscribe to this channel for more updates: https://bit.ly/2E7drfJ\n👉 Discord server signup: https://discord.gg/ddMZFtTDa5\n\nThank you for watching this video, click the \"SUBSCRIBE\" button to stay connected with this channel. \n\n#javascript #quickFix",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5zwzyHqBFnA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5zwzyHqBFnA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5zwzyHqBFnA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5zwzyHqBFnA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5zwzyHqBFnA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jack Herrington",
+      "tags": [
+        "javascript",
+        "const in javascript",
+        "javascript consts",
+        "javascript const variable",
+        "javascript quick fix",
+        "blue collar coder",
+        "jack herrington",
+        "jack herrington javascript",
+        "const keyword in javascript",
+        "const aren't constants",
+        "js const variable",
+        "js const keyword",
+        "JavaScript Quick Fix",
+        "consts Aren't Constants",
+        "javascript constant arrays and objects"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "JavaScript consts Aren't Constants - JavaScript Quick Fix",
+        "description": "Does JavaScript treat constant arrays and objects the same way as numbers, strings, and booleans? Turns out not. So let's see why that is and how, if you don't understand it, you can easily put bugs into your React applications.\n\n👉 What's my theme? Night Wolf [black]\n👉 What's that font? Operator Mono\n👉 I'm a host on the React Round Up podcast: https://devchat.tv/podcasts/react-round-up/\n👉 Don't forget to subscribe to this channel for more updates: https://bit.ly/2E7drfJ\n👉 Discord server signup: https://discord.gg/ddMZFtTDa5\n\nThank you for watching this video, click the \"SUBSCRIBE\" button to stay connected with this channel. \n\n#javascript #quickFix"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT5M34S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "3341",
+      "likeCount": "242",
+      "favoriteCount": "0",
+      "commentCount": "29"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/5zwzyHqBFnA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    },
+    "topicDetails": {
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Knowledge"
+      ]
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "gVgFJUthU3fi0FY2o8QXzM8sEzY",
+    "id": "p4XQeUaskeQ",
+    "snippet": {
+      "publishedAt": "2021-11-30T16:00:32Z",
+      "channelId": "UC6vRUjYqDuoUsYsku86Lrsw",
+      "title": "JavaScript's Most Controversial Array Methods (Part 6)",
+      "description": "Let's take a look at the destructive array methods in JavaScript: push, pop, shift, unshift, sort, reverse, splice and combineWithin.\n\nQuokka: https://quokkajs.com/\nCode: https://github.com/jherr/arrays-made-easy\n\n👉 What's my theme? Night Wolf [black]\n👉 What's that font? Operator Mono\n👉 I'm a host on the React Round Up podcast: https://devchat.tv/podcasts/react-round-up/\n👉 Don't forget to subscribe to this channel for more updates: https://bit.ly/2E7drfJ\n👉 Discord server signup: https://discord.gg/ddMZFtTDa5\n\n00:00 Introduction\n00:33 Why in-place alteration matters\n01:18 Push and pop\n05:06 Shift and unshift\n06:40 Sort\n08:23 Reverse\n09:05 Splice\n10:30 CombineWIthin\n11:20 Review\n11:54 Outroduction\n\nThank you for watching this video, click the \"SUBSCRIBE\" button to stay connected with this channel. \n\n#javascript #arrays",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/p4XQeUaskeQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/p4XQeUaskeQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/p4XQeUaskeQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/p4XQeUaskeQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/p4XQeUaskeQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jack Herrington",
+      "tags": [
+        "javascript array",
+        "jack herrington",
+        "blue collar coder",
+        "javascript array methods",
+        "Javascript Arrays Made Simple",
+        "javascript array tutorial",
+        "javascript array method tutorial",
+        "javascript array basics",
+        "advanced javascript array",
+        "javascript sort array of numbers",
+        "javascript array sort",
+        "javascript array splice",
+        "javascript array shift",
+        "javascript array unshift",
+        "javascript array pop",
+        "javascript array push",
+        "JavaScript's Most Controversial Array Methods",
+        "Most Controversial Array Methods"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "JavaScript's Most Controversial Array Methods (Part 6)",
+        "description": "Let's take a look at the destructive array methods in JavaScript: push, pop, shift, unshift, sort, reverse, splice and combineWithin.\n\nQuokka: https://quokkajs.com/\nCode: https://github.com/jherr/arrays-made-easy\n\n👉 What's my theme? Night Wolf [black]\n👉 What's that font? Operator Mono\n👉 I'm a host on the React Round Up podcast: https://devchat.tv/podcasts/react-round-up/\n👉 Don't forget to subscribe to this channel for more updates: https://bit.ly/2E7drfJ\n👉 Discord server signup: https://discord.gg/ddMZFtTDa5\n\n00:00 Introduction\n00:33 Why in-place alteration matters\n01:18 Push and pop\n05:06 Shift and unshift\n06:40 Sort\n08:23 Reverse\n09:05 Splice\n10:30 CombineWIthin\n11:20 Review\n11:54 Outroduction\n\nThank you for watching this video, click the \"SUBSCRIBE\" button to stay connected with this channel. \n\n#javascript #arrays"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT12M20S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "2316",
+      "likeCount": "162",
+      "favoriteCount": "0",
+      "commentCount": "21"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/p4XQeUaskeQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    },
+    "topicDetails": {
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Knowledge"
+      ]
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "UfYsp3wC8W5ZuupB1odunna-js0",
+    "id": "DjzlGfhUyAM",
+    "snippet": {
+      "publishedAt": "2021-11-29T16:09:29Z",
+      "channelId": "UC6vRUjYqDuoUsYsku86Lrsw",
+      "title": "Reduce: Mother of all Javascript Array Methods? (Part 5)",
+      "description": "Reduce is considered the hardest of the Array functions, is it? Let's try demystifying this super powerful Array method and give you the power to create anything you want from an arry.\n\nQuokka: https://quokkajs.com/\nCode: https://github.com/jherr/arrays-made-easy\n\n👉 What's my theme? Night Wolf [black]\n👉 What's that font? Operator Mono\n👉 I'm a host on the React Round Up podcast: https://devchat.tv/podcasts/react-round-up/\n👉 Don't forget to subscribe to this channel for more updates: https://bit.ly/2E7drfJ\n👉 Discord server signup: https://discord.gg/ddMZFtTDa5\n\n00:00 Introduction\n00:35 Reducing to a single value\n06:50 Reducing to an array\n11:55 Reducing to an object\n15:55 Reduce can make all the other array methods\n18:40 Entries, keys and values\n21:00 Reduce for sequential async\n22:51 Review\n23:25 Outroduction\n\nThank you for watching this video, click the \"SUBSCRIBE\" button to stay connected with this channel. \n\n#javascript #arrays",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DjzlGfhUyAM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DjzlGfhUyAM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DjzlGfhUyAM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DjzlGfhUyAM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DjzlGfhUyAM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jack Herrington",
+      "tags": [
+        "javascript array",
+        "jack herrington",
+        "blue collar coder",
+        "javascript array methods",
+        "Javascript Arrays Made Simple",
+        "javascript array tutorial",
+        "javascript array method tutorial",
+        "javascript array basics",
+        "advanced javascript array",
+        "javascript array reduce method",
+        "javascript reduce method",
+        "reduce array method",
+        "reduceRight javascript",
+        "reduceRight array method",
+        "javascript arrays keys values entries",
+        "reduce : mother of all array methods",
+        "Reducing to an object",
+        "Reduce for sequential async"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Reduce: Mother of all Javascript Array Methods? (Part 5)",
+        "description": "Reduce is considered the hardest of the Array functions, is it? Let's try demystifying this super powerful Array method and give you the power to create anything you want from an arry.\n\nQuokka: https://quokkajs.com/\nCode: https://github.com/jherr/arrays-made-easy\n\n👉 What's my theme? Night Wolf [black]\n👉 What's that font? Operator Mono\n👉 I'm a host on the React Round Up podcast: https://devchat.tv/podcasts/react-round-up/\n👉 Don't forget to subscribe to this channel for more updates: https://bit.ly/2E7drfJ\n👉 Discord server signup: https://discord.gg/ddMZFtTDa5\n\n00:00 Introduction\n00:35 Reducing to a single value\n06:50 Reducing to an array\n11:55 Reducing to an object\n15:55 Reduce can make all the other array methods\n18:40 Entries, keys and values\n21:00 Reduce for sequential async\n22:51 Review\n23:25 Outroduction\n\nThank you for watching this video, click the \"SUBSCRIBE\" button to stay connected with this channel. \n\n#javascript #arrays"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT23M52S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "3828",
+      "likeCount": "254",
+      "favoriteCount": "0",
+      "commentCount": "35"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/DjzlGfhUyAM\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    },
+    "topicDetails": {
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Knowledge"
+      ]
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "Sv5VjM2PA1Y2JhV1E_8RiPgJPIk",
+    "id": "k42kEU2izKc",
+    "snippet": {
+      "publishedAt": "2021-11-26T15:55:34Z",
+      "channelId": "UC6vRUjYqDuoUsYsku86Lrsw",
+      "title": "Javascript Arrays Made Simple: Map and Flat (Part 4)",
+      "description": "Map is probably the most important single array method you will learn, particularly if you are a React developer. Let's dig into the powerful map method, and its associated methods to see just what we can do with them.\n\nQuokka: https://quokkajs.com/\nCode: https://github.com/jherr/arrays-made-easy\n\n👉 What's my theme? Night Wolf [black]\n👉 What's that font? Operator Mono\n👉 I'm a host on the React Round Up podcast: https://devchat.tv/podcasts/react-round-up/\n👉 Don't forget to subscribe to this channel for more updates: https://bit.ly/2E7drfJ\n👉 Discord server signup: https://discord.gg/ddMZFtTDa5\n\n00:00 Introduction\n00:22 Map of scalars\n01:45 Chaining filter and map\n03:07 Mapping over objects\n05:25 Nested object references\n06:39 Cheap cloning\n07:53 Array.from\n08:52 Flat\n10:07 flatMap\n11:09 Concat\n12:09 Review\n12:52 Outroduction\n\nThank you for watching this video, click the \"SUBSCRIBE\" button to stay connected with this channel. \n\n#javascript #arrays",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/k42kEU2izKc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/k42kEU2izKc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/k42kEU2izKc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/k42kEU2izKc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/k42kEU2izKc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jack Herrington",
+      "tags": [
+        "javascript array",
+        "jack herrington",
+        "blue collar coder",
+        "javascript arrays",
+        "javascript array methods",
+        "Javascript Arrays Made Simple",
+        "javascript array tutorial",
+        "javascript array method tutorial",
+        "javascript array basics",
+        "advanced javascript array",
+        "Javascript Arrays Made Simple: Map and Flat",
+        "javascript cheap cloning array method",
+        "javascript nested object references",
+        "Mapping over objects",
+        "Chaining filter and map",
+        "javascript array flatMap"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Javascript Arrays Made Simple: Map and Flat (Part 4)",
+        "description": "Map is probably the most important single array method you will learn, particularly if you are a React developer. Let's dig into the powerful map method, and its associated methods to see just what we can do with them.\n\nQuokka: https://quokkajs.com/\nCode: https://github.com/jherr/arrays-made-easy\n\n👉 What's my theme? Night Wolf [black]\n👉 What's that font? Operator Mono\n👉 I'm a host on the React Round Up podcast: https://devchat.tv/podcasts/react-round-up/\n👉 Don't forget to subscribe to this channel for more updates: https://bit.ly/2E7drfJ\n👉 Discord server signup: https://discord.gg/ddMZFtTDa5\n\n00:00 Introduction\n00:22 Map of scalars\n01:45 Chaining filter and map\n03:07 Mapping over objects\n05:25 Nested object references\n06:39 Cheap cloning\n07:53 Array.from\n08:52 Flat\n10:07 flatMap\n11:09 Concat\n12:09 Review\n12:52 Outroduction\n\nThank you for watching this video, click the \"SUBSCRIBE\" button to stay connected with this channel. \n\n#javascript #arrays"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT13M20S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "2664",
+      "likeCount": "222",
+      "favoriteCount": "0",
+      "commentCount": "38"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/k42kEU2izKc\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    },
+    "topicDetails": {
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Knowledge"
+      ]
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "_MBbBeAOt5V_GwHlwevX_0SGW9U",
+    "id": "rgZkd-RAYfE",
+    "snippet": {
+      "publishedAt": "2021-11-24T19:02:55Z",
+      "channelId": "UC6vRUjYqDuoUsYsku86Lrsw",
+      "title": "Remix Run Speedrun - Pokemon",
+      "description": "Is Remix Run more than just hype? Let’s find out by building out a multi-page Pokemon SPA to show you a bunch of the fundamentals: SSR data loading, Navigation, API Routes, page routes and parameters, and more.\n\nCode: https://github.com/jherr/remix-speedrun-pokemon\nRemix Quickstart: https://remix.run/docs/en/v1/tutorials/blog\nRemix Philosophy: https://remix.run/docs/en/v1/guides/philosophy\n\n👉 What's my theme? Night Wolf [black]\n👉 What's that font? Operator Mono\n👉 I'm a host on the React Round Up podcast: https://devchat.tv/podcasts/react-round-up/\n👉 Don't forget to subscribe to this channel for more updates: https://bit.ly/2E7drfJ\n👉 Discord server signup: https://discord.gg/ddMZFtTDa5\n\nThank you for watching this video, click the \"SUBSCRIBE\" button to stay connected with this channel. \n\n00:00 Introduction\n00:33 Setup\n01:26 Tailwind setup\n02:27 Layout configuration\n04:12 Setting up Pokemon data\n04:50 Creating the index page\n06:42 Creating an API route\n07:10 useFetcher and Forms\n09:10 Implementing a Route\n11:33 Adding Breadcrumbs\n12:36 How Remix is different\n13:15 Remix Actions\n14:08 Outroduction\n\n#remix #remixRun",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rgZkd-RAYfE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rgZkd-RAYfE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rgZkd-RAYfE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rgZkd-RAYfE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rgZkd-RAYfE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jack Herrington",
+      "tags": [
+        "remix run",
+        "jack herrington",
+        "webdev",
+        "app development",
+        "lesson",
+        "tutorial",
+        "blue collar coder",
+        "Remix SPA",
+        "Remix SSR data loading",
+        "Remix API Routes",
+        "Remix Page Routes",
+        "Remix Run",
+        "Remix Framework"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Remix Run Speedrun - Pokemon",
+        "description": "Is Remix Run more than just hype? Let’s find out by building out a multi-page Pokemon SPA to show you a bunch of the fundamentals: SSR data loading, Navigation, API Routes, page routes and parameters, and more.\n\nCode: https://github.com/jherr/remix-speedrun-pokemon\nRemix Quickstart: https://remix.run/docs/en/v1/tutorials/blog\nRemix Philosophy: https://remix.run/docs/en/v1/guides/philosophy\n\n👉 What's my theme? Night Wolf [black]\n👉 What's that font? Operator Mono\n👉 I'm a host on the React Round Up podcast: https://devchat.tv/podcasts/react-round-up/\n👉 Don't forget to subscribe to this channel for more updates: https://bit.ly/2E7drfJ\n👉 Discord server signup: https://discord.gg/ddMZFtTDa5\n\nThank you for watching this video, click the \"SUBSCRIBE\" button to stay connected with this channel. \n\n00:00 Introduction\n00:33 Setup\n01:26 Tailwind setup\n02:27 Layout configuration\n04:12 Setting up Pokemon data\n04:50 Creating the index page\n06:42 Creating an API route\n07:10 useFetcher and Forms\n09:10 Implementing a Route\n11:33 Adding Breadcrumbs\n12:36 How Remix is different\n13:15 Remix Actions\n14:08 Outroduction\n\n#remix #remixRun"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT14M38S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "7446",
+      "likeCount": "345",
+      "favoriteCount": "0",
+      "commentCount": "58"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/rgZkd-RAYfE\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    },
+    "topicDetails": {
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Video_game_culture"
+      ]
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "8pljkMMkXP8XsCuPfhw_9wNouMY",
+    "id": "tcNRdIqDnjY",
+    "snippet": {
+      "publishedAt": "2021-11-24T16:38:02Z",
+      "channelId": "UC6vRUjYqDuoUsYsku86Lrsw",
+      "title": "Javascript Arrays Made Simple: Filter and Slice (Part 3)",
+      "description": "Filter is a critical array method to memorize in JavaScript. Filter will help you pair down your arrays to just the items that interest you in an intuitive and fast way. Learn all about the filter and slice methods in this video and get your arrays under control.\n\nQuokka: https://quokkajs.com/\nCode: https://github.com/jherr/arrays-made-easy\n\n👉 What's my theme? Night Wolf [black]\n👉 What's that font? Operator Mono\n👉 I'm a host on the React Round Up podcast: https://devchat.tv/podcasts/react-round-up/\n👉 Don't forget to subscribe to this channel for more updates: https://bit.ly/2E7drfJ\n👉 Discord server signup: https://discord.gg/ddMZFtTDa5\n\n00:00 Introduction\n00:20 Filter with numbers\n02:50 Filter with objects\n04:22 Working with references\n05:18 Other filter arguments\n06:20 Slice\n08:15 Review\n08:47 Outroduction\n\nThank you for watching this video, click the \"SUBSCRIBE\" button to stay connected with this channel. \n\n#javascript #arrays",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tcNRdIqDnjY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tcNRdIqDnjY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tcNRdIqDnjY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tcNRdIqDnjY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tcNRdIqDnjY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jack Herrington",
+      "tags": [
+        "javascript array",
+        "jack herrington",
+        "blue collar coder",
+        "javascript arrays",
+        "javascript array methods",
+        "Javascript Arrays Made Simple",
+        "javascript array tutorial",
+        "javascript array method tutorial",
+        "javascript array basics",
+        "advanced javascript array",
+        "javascript filter",
+        "javascript filter search",
+        "javascript array filter",
+        "javascript slice",
+        "javascript array slice",
+        "javascript array filter and slice",
+        "Javascript Arrays Made Simple: Filter and Slice"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Javascript Arrays Made Simple: Filter and Slice (Part 3)",
+        "description": "Filter is a critical array method to memorize in JavaScript. Filter will help you pair down your arrays to just the items that interest you in an intuitive and fast way. Learn all about the filter and slice methods in this video and get your arrays under control.\n\nQuokka: https://quokkajs.com/\nCode: https://github.com/jherr/arrays-made-easy\n\n👉 What's my theme? Night Wolf [black]\n👉 What's that font? Operator Mono\n👉 I'm a host on the React Round Up podcast: https://devchat.tv/podcasts/react-round-up/\n👉 Don't forget to subscribe to this channel for more updates: https://bit.ly/2E7drfJ\n👉 Discord server signup: https://discord.gg/ddMZFtTDa5\n\n00:00 Introduction\n00:20 Filter with numbers\n02:50 Filter with objects\n04:22 Working with references\n05:18 Other filter arguments\n06:20 Slice\n08:15 Review\n08:47 Outroduction\n\nThank you for watching this video, click the \"SUBSCRIBE\" button to stay connected with this channel. \n\n#javascript #arrays"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT9M7S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "2001",
+      "likeCount": "157",
+      "favoriteCount": "0",
+      "commentCount": "14"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/tcNRdIqDnjY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    },
+    "topicDetails": {
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Knowledge"
+      ]
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "BIr2cO9HACrmWorF-NiZrzVxBtI",
+    "id": "XYq9QpgAx8g",
+    "snippet": {
+      "publishedAt": "2021-11-23T16:00:22Z",
+      "channelId": "UC6vRUjYqDuoUsYsku86Lrsw",
+      "title": "Javascript Arrays Made Simple: Indexing and Finding (Part 2)",
+      "description": "Lets dig into array methods like find, findIndex, includes, some, every and more to see how JavaScript helps us find out what is in our arrays.\n\nQuokka: https://quokkajs.com/\nCode: https://github.com/jherr/arrays-made-easy\n\n👉 What's my theme? Night Wolf [black]\n👉 What's that font? Operator Mono\n👉 I'm a host on the React Round Up podcast: https://devchat.tv/podcasts/react-round-up/\n👉 Don't forget to subscribe to this channel for more updates: https://bit.ly/2E7drfJ\n👉 Discord server signup: https://discord.gg/ddMZFtTDa5\n\n00:00 Introduction\n00:19 Destructuring\n01:44 Array copying\n03:20 Scalars and References\n04:42 Finding indexes\n06:32 Finding objects\n07:47 Includes, some and every\n09:17 Review\n09:46 Outroduction\n\nThank you for watching this video, click the \"SUBSCRIBE\" button to stay connected with this channel. \n\n#javascript #arrays",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XYq9QpgAx8g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XYq9QpgAx8g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XYq9QpgAx8g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XYq9QpgAx8g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XYq9QpgAx8g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jack Herrington",
+      "tags": [
+        "javascript array",
+        "jack herrington",
+        "blue collar coder",
+        "javascript arrays",
+        "javascript array methods",
+        "Javascript Arrays Made Simple",
+        "javascript array iterators made simple",
+        "javascript find method",
+        "javascript findindex",
+        "javascript includes",
+        "javascript some",
+        "javascript some method",
+        "javascript every",
+        "javascript every method",
+        "javascript array tutorial",
+        "javascript array method tutorial",
+        "javascript array basics",
+        "advanced javascript array"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Javascript Arrays Made Simple: Indexing and Finding (Part 2)",
+        "description": "Lets dig into array methods like find, findIndex, includes, some, every and more to see how JavaScript helps us find out what is in our arrays.\n\nQuokka: https://quokkajs.com/\nCode: https://github.com/jherr/arrays-made-easy\n\n👉 What's my theme? Night Wolf [black]\n👉 What's that font? Operator Mono\n👉 I'm a host on the React Round Up podcast: https://devchat.tv/podcasts/react-round-up/\n👉 Don't forget to subscribe to this channel for more updates: https://bit.ly/2E7drfJ\n👉 Discord server signup: https://discord.gg/ddMZFtTDa5\n\n00:00 Introduction\n00:19 Destructuring\n01:44 Array copying\n03:20 Scalars and References\n04:42 Finding indexes\n06:32 Finding objects\n07:47 Includes, some and every\n09:17 Review\n09:46 Outroduction\n\nThank you for watching this video, click the \"SUBSCRIBE\" button to stay connected with this channel. \n\n#javascript #arrays"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT10M6S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "2930",
+      "likeCount": "232",
+      "favoriteCount": "0",
+      "commentCount": "46"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/XYq9QpgAx8g\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    },
+    "topicDetails": {
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Knowledge"
+      ]
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "qi1gxPfy6_H-qNT0vBDnUuk_BQw",
+    "id": "NaJI7RkSPx8",
+    "snippet": {
+      "publishedAt": "2021-11-22T16:09:20Z",
+      "channelId": "UC6vRUjYqDuoUsYsku86Lrsw",
+      "title": "Javascript Arrays Made Simple: Iterators (Part 1)",
+      "description": "Let's have a look at all the different ways to iterate through arrays; for, for(in), for(of) and forEach and figure out which ones you should use, and which you should NOT use.\n\nQuokka: https://quokkajs.com/\nCode: https://github.com/jherr/arrays-made-easy\n\n👉 What's my theme? Night Wolf [black]\n👉 What's that font? Operator Mono\n👉 I'm a host on the React Round Up podcast: https://devchat.tv/podcasts/react-round-up/\n👉 Don't forget to subscribe to this channel for more updates: https://bit.ly/2E7drfJ\n👉 Discord server signup: https://discord.gg/ddMZFtTDa5\n\n00:00 Introduction\n00:20 The for() loop\n03:50 The for(in) loop\n04:56 The for(of) loop\n05:40 The forEach method\n07:03 for/forEach with async\n11:03 Review\n11:30 Outroduction\n\nThank you for watching this video, click the \"SUBSCRIBE\" button to stay connected with this channel. \n\n#javascript #arrays",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NaJI7RkSPx8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NaJI7RkSPx8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NaJI7RkSPx8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NaJI7RkSPx8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NaJI7RkSPx8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jack Herrington",
+      "tags": [
+        "javascript array",
+        "javascript array foreach",
+        "javascript for loop",
+        "javascript for of",
+        "javascript for in",
+        "javascript loops",
+        "javascript looping",
+        "javascript looping through arrays",
+        "jack herrington",
+        "blue collar coder",
+        "javascript loops explained",
+        "javascript loops tutorial",
+        "javascript arrays",
+        "javascript loops for beginners",
+        "javascript array methods",
+        "Javascript Arrays Made Simple",
+        "javascript array iterators made simple"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Javascript Arrays Made Simple: Iterators (Part 1)",
+        "description": "Let's have a look at all the different ways to iterate through arrays; for, for(in), for(of) and forEach and figure out which ones you should use, and which you should NOT use.\n\nQuokka: https://quokkajs.com/\nCode: https://github.com/jherr/arrays-made-easy\n\n👉 What's my theme? Night Wolf [black]\n👉 What's that font? Operator Mono\n👉 I'm a host on the React Round Up podcast: https://devchat.tv/podcasts/react-round-up/\n👉 Don't forget to subscribe to this channel for more updates: https://bit.ly/2E7drfJ\n👉 Discord server signup: https://discord.gg/ddMZFtTDa5\n\n00:00 Introduction\n00:20 The for() loop\n03:50 The for(in) loop\n04:56 The for(of) loop\n05:40 The forEach method\n07:03 for/forEach with async\n11:03 Review\n11:30 Outroduction\n\nThank you for watching this video, click the \"SUBSCRIBE\" button to stay connected with this channel. \n\n#javascript #arrays"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT11M55S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "5012",
+      "likeCount": "428",
+      "favoriteCount": "0",
+      "commentCount": "63"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/NaJI7RkSPx8\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    },
+    "topicDetails": {
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Knowledge"
+      ]
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "TGhVJQBn_N89u1K1ZcX6Wmiy8Rs",
+    "id": "0vumsisnqwM",
+    "snippet": {
+      "publishedAt": "2021-11-18T16:00:00Z",
+      "channelId": "UC6vRUjYqDuoUsYsku86Lrsw",
+      "title": "Proxy & Flyweight Patterns - No BS TS Series 2 Episode 5",
+      "description": "We learn how to use the Proxy Design Pattern (and the Proxy object in JavaScript) to listen to key gets and sets in order to create on-demand hydrated objects (Flyweights) and a MobX style state manager.\n\nCode: https://github.com/jherr/no-bs-ts/tree/master/series-2/episode-5-proxy\n\nI have a book out on TypeScript that gets updated with a new chapter every time I add a new No BS TS episode. Check it out! https://no-bs-ts.myshopify.com/\n\n👉 What's my theme? Night Wolf [black]\n👉 What's that font? MonoLisa\n👉 I'm a host on the React Round Up podcast: https://devchat.tv/podcasts/react-round-up/\n👉 Don't forget to subscribe to this channel for more updates: https://bit.ly/2E7drfJ\n👉 Discord server signup: https://discord.gg/ddMZFtTDa5\n\n00:00 Introduction\n00:30 Architectural overview\n01:28 Flyweight Pattern\n07:36 Proxy Pattern\n13:44 Proxy Pattern State manager\n18:54 Outroduction\n\n#typescript #designPatterns #proxy #flyweight",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0vumsisnqwM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0vumsisnqwM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0vumsisnqwM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0vumsisnqwM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0vumsisnqwM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jack Herrington",
+      "tags": [
+        "No BS TS",
+        "No BS TS Series 2",
+        "typescript design pattern",
+        "javascript design patterns",
+        "software design patterns",
+        "jack herrington",
+        "jack herrington typescript",
+        "Typescript Design Patterns",
+        "gof design patterns",
+        "best practice",
+        "design patterns",
+        "javascript proxy",
+        "typescript proxy",
+        "flyweight design pattern",
+        "design patterns in typescript",
+        "typescript",
+        "proxy pattern typescript",
+        "flyweight pattern typescript"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Proxy & Flyweight Patterns - No BS TS Series 2 Episode 5",
+        "description": "We learn how to use the Proxy Design Pattern (and the Proxy object in JavaScript) to listen to key gets and sets in order to create on-demand hydrated objects (Flyweights) and a MobX style state manager.\n\nCode: https://github.com/jherr/no-bs-ts/tree/master/series-2/episode-5-proxy\n\nI have a book out on TypeScript that gets updated with a new chapter every time I add a new No BS TS episode. Check it out! https://no-bs-ts.myshopify.com/\n\n👉 What's my theme? Night Wolf [black]\n👉 What's that font? MonoLisa\n👉 I'm a host on the React Round Up podcast: https://devchat.tv/podcasts/react-round-up/\n👉 Don't forget to subscribe to this channel for more updates: https://bit.ly/2E7drfJ\n👉 Discord server signup: https://discord.gg/ddMZFtTDa5\n\n00:00 Introduction\n00:30 Architectural overview\n01:28 Flyweight Pattern\n07:36 Proxy Pattern\n13:44 Proxy Pattern State manager\n18:54 Outroduction\n\n#typescript #designPatterns #proxy #flyweight"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT19M20S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "3194",
+      "likeCount": "180",
+      "favoriteCount": "0",
+      "commentCount": "29"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/0vumsisnqwM\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    },
+    "topicDetails": {
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Knowledge"
+      ]
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "wtoFzexiFgvoALKdzUqHKCHvoOw",
+    "id": "i8kner-Yrj0",
+    "snippet": {
+      "publishedAt": "2021-11-17T23:24:04Z",
+      "channelId": "UC6vRUjYqDuoUsYsku86Lrsw",
+      "title": "React Location: Better than React Router?",
+      "description": "React Router has been the best in class router for years now. But now the creator of React Query, Tanner Linsley, has developed and just released a new router for the Tanstack named React Location. Declarative routing? Check. Asynchronous route loading? Got it. Easy data pre-loading? Absolutely. This library is a blast and it works on both the client and the server. So let's give it a try.\n\nCode: https://github.com/jherr/react-location-intro\n\n👉 What's my theme? Night Wolf [black]\n👉 What's that font? Operator Mono\n👉 I'm a host on the React Round Up podcast: https://devchat.tv/podcasts/react-round-up/\n👉 Don't forget to subscribe to this channel for more updates: https://bit.ly/2E7drfJ\n👉 Discord server signup: https://discord.gg/ddMZFtTDa5\n\n00:00 Introduction\n00:50 Getting started\n05:04 An eCommerce Example\n06:04 Installation\n06:44 Basic routing\n10:36 Async routing\n12:21 Data pre-loading\n17:08 Importing modules\n20:04 Outroduction\n\nThank you for watching this video, click the \"SUBSCRIBE\" button to stay connected with this channel. \n\n#tanStack #reactLocation #reactRouter",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/i8kner-Yrj0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/i8kner-Yrj0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/i8kner-Yrj0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/i8kner-Yrj0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/i8kner-Yrj0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jack Herrington",
+      "tags": [
+        "react router",
+        "react router dom",
+        "react-router-dom",
+        "react router link",
+        "react location",
+        "tanstack react",
+        "tanstack",
+        "tanner linsley",
+        "jack herrington",
+        "react routing",
+        "react router v6",
+        "React Location: Better than React Router?"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "React Location: Better than React Router?",
+        "description": "React Router has been the best in class router for years now. But now the creator of React Query, Tanner Linsley, has developed and just released a new router for the Tanstack named React Location. Declarative routing? Check. Asynchronous route loading? Got it. Easy data pre-loading? Absolutely. This library is a blast and it works on both the client and the server. So let's give it a try.\n\nCode: https://github.com/jherr/react-location-intro\n\n👉 What's my theme? Night Wolf [black]\n👉 What's that font? Operator Mono\n👉 I'm a host on the React Round Up podcast: https://devchat.tv/podcasts/react-round-up/\n👉 Don't forget to subscribe to this channel for more updates: https://bit.ly/2E7drfJ\n👉 Discord server signup: https://discord.gg/ddMZFtTDa5\n\n00:00 Introduction\n00:50 Getting started\n05:04 An eCommerce Example\n06:04 Installation\n06:44 Basic routing\n10:36 Async routing\n12:21 Data pre-loading\n17:08 Importing modules\n20:04 Outroduction\n\nThank you for watching this video, click the \"SUBSCRIBE\" button to stay connected with this channel. \n\n#tanStack #reactLocation #reactRouter"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT20M36S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "9833",
+      "likeCount": "490",
+      "favoriteCount": "0",
+      "commentCount": "80"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/i8kner-Yrj0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    },
+    "topicDetails": {
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Knowledge"
+      ]
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "eejquenzG7-83Oq1cDobhbG_Ei8",
+    "id": "HbSvuxr2kzA",
+    "snippet": {
+      "publishedAt": "2021-11-15T16:00:08Z",
+      "channelId": "UC6vRUjYqDuoUsYsku86Lrsw",
+      "title": "Fixing Bad Copilot Code - mergeArrays",
+      "description": "GitHub Copilot code is often amazing and sometimes terrifying. Let's take a O(N^3) mergeArrays implementation and turn it into a sleek O(N) ES6 near one liner, step by step.\n\nCode: https://github.com/jherr/copilot-cleanup/tree/main/mergeArrays\n\nI have a book out on TypeScript that gets updated with a new chapter every time I add a new No BS TS episode. Check it out! https://no-bs-ts.myshopify.com/\n\n👉 What's my theme? Night Wolf [black]\n👉 What's that font? MonoLisa\n👉 I'm a host on the React Round Up podcast: https://devchat.tv/podcasts/react-round-up/\n👉 Don't forget to subscribe to this channel for more updates: https://bit.ly/2E7drfJ\n👉 Discord server signup: https://discord.gg/ddMZFtTDa5\n\n00:00 Introduction\n00:18 Copilot's Take\n02:27 Initial cleanups\n05:57 Using array methods\n07:22 Finding/fixing the bug\n08:17 Array.flat\n10:12 Whoa, O(N)!\n11:22 Reducing it\n13:27 Making it generic\n15:02 Changing the signature\n16:14 Outroduction\n\n#copilot #typescript #javascript",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HbSvuxr2kzA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HbSvuxr2kzA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HbSvuxr2kzA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HbSvuxr2kzA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HbSvuxr2kzA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jack Herrington",
+      "tags": [
+        "github copilot",
+        "github copilot jack herrington",
+        "github copilot code",
+        "github copilot code cleanup",
+        "copilot code cleanup",
+        "Cleaning Up Copilot Code",
+        "github copilot Human vs AI",
+        "github copilot vscode",
+        "github copilot review",
+        "github copilot tutorial",
+        "github copilot examples",
+        "github vs human",
+        "github vs coder",
+        "fixing bad copilot code",
+        "fixing copilot code",
+        "fixing github copilot code",
+        "fixing copilot code mergeArrays"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Fixing Bad Copilot Code - mergeArrays",
+        "description": "GitHub Copilot code is often amazing and sometimes terrifying. Let's take a O(N^3) mergeArrays implementation and turn it into a sleek O(N) ES6 near one liner, step by step.\n\nCode: https://github.com/jherr/copilot-cleanup/tree/main/mergeArrays\n\nI have a book out on TypeScript that gets updated with a new chapter every time I add a new No BS TS episode. Check it out! https://no-bs-ts.myshopify.com/\n\n👉 What's my theme? Night Wolf [black]\n👉 What's that font? MonoLisa\n👉 I'm a host on the React Round Up podcast: https://devchat.tv/podcasts/react-round-up/\n👉 Don't forget to subscribe to this channel for more updates: https://bit.ly/2E7drfJ\n👉 Discord server signup: https://discord.gg/ddMZFtTDa5\n\n00:00 Introduction\n00:18 Copilot's Take\n02:27 Initial cleanups\n05:57 Using array methods\n07:22 Finding/fixing the bug\n08:17 Array.flat\n10:12 Whoa, O(N)!\n11:22 Reducing it\n13:27 Making it generic\n15:02 Changing the signature\n16:14 Outroduction\n\n#copilot #typescript #javascript"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT16M56S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "1782",
+      "likeCount": "113",
+      "favoriteCount": "0",
+      "commentCount": "20"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/HbSvuxr2kzA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    },
+    "topicDetails": {
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Knowledge"
+      ]
+    }
   }
 ]
