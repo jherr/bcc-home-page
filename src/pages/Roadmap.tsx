@@ -162,7 +162,7 @@ const roadmaps: Record<
     {
       title: "Getting Started",
       videos: [
-        "j8AVXNozac8:Getting Starts",
+        "j8AVXNozac8:Getting Started",
         "HwNArS3f1Ss:JSX",
         "MJaGti42c5c:Lists",
         "ekIDdZE7YjM:Creating a Component",
